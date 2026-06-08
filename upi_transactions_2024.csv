@@ -1,0 +1,1000 @@
+transaction id,timestamp,transaction type,merchant_category,amount (INR),transaction_status,sender_age_group,receiver_age_group,sender_state,sender_bank,receiver_bank,device_type,network_type,fraud_flag,hour_of_day,day_of_week,is_weekend
+TXN01,08-10-2024 15:17,P2P,Entertainment,868,SUCCESS,26-35,18-25,Delhi,Axis,SBI,Android,4G,0,15,Tuesday,0
+TXN02,11-04-2024 06:56,P2M,Grocery,1011,SUCCESS,26-35,26-35,Uttar Pradesh,ICICI,Axis,iOS,4G,0,6,Thursday,0
+TXN03,02-04-2024 13:27,P2P,Grocery,477,SUCCESS,26-35,36-45,Karnataka,Yes Bank,PNB,Android,4G,0,13,Tuesday,0
+TXN04,07-01-2024 10:09,P2P,Fuel,2784,SUCCESS,26-35,26-35,Delhi,ICICI,PNB,Android,5G,0,10,Sunday,1
+TXN05,23-01-2024 19:04,P2P,Shopping,990,SUCCESS,26-35,18-25,Delhi,Axis,Yes Bank,iOS,WiFi,0,19,Tuesday,0
+TXN06,07-10-2024 22:32,P2P,Food,91,SUCCESS,36-45,18-25,Karnataka,IndusInd,Yes Bank,Android,3G,0,22,Monday,0
+TXN07,08-02-2024 10:25,P2P,Other,314,SUCCESS,36-45,18-25,Telangana,HDFC,IndusInd,Android,4G,0,10,Thursday,0
+TXN08,27-10-2024 18:47,P2P,Utilities,264,SUCCESS,46-55,36-45,Maharashtra,Yes Bank,SBI,Android,5G,0,18,Sunday,1
+TXN09,21-11-2024 09:39,P2P,Other,887,SUCCESS,46-55,36-45,Maharashtra,Kotak,HDFC,Android,4G,0,9,Thursday,0
+TXN10,11-11-2024 15:58,P2M,Grocery,3260,SUCCESS,46-55,18-25,Delhi,SBI,HDFC,Android,4G,0,15,Monday,0
+TXN11,07-04-2024 20:14,P2P,Food,587,SUCCESS,26-35,46-55,Karnataka,SBI,SBI,Android,4G,0,20,Sunday,1
+TXN12,24-12-2024 10:44,P2M,Other,518,SUCCESS,26-35,18-25,Gujarat,Yes Bank,SBI,Android,4G,0,10,Tuesday,0
+TXN13,16-11-2024 20:09,P2P,Transport,73,SUCCESS,26-35,18-25,Uttar Pradesh,Axis,Kotak,Android,4G,0,20,Saturday,1
+TXN14,10-04-2024 00:51,Bill Payment,Grocery,430,SUCCESS,56+,36-45,Gujarat,Yes Bank,Yes Bank,Android,4G,0,0,Wednesday,0
+TXN15,03-02-2024 12:35,P2P,Transport,544,SUCCESS,18-25,46-55,Uttar Pradesh,IndusInd,Axis,Android,5G,0,12,Saturday,1
+TXN16,09-11-2024 15:21,P2M,Grocery,1346,SUCCESS,18-25,18-25,Rajasthan,SBI,SBI,Android,5G,0,15,Saturday,1
+TXN17,25-01-2024 07:27,P2P,Food,171,SUCCESS,46-55,18-25,Delhi,HDFC,SBI,Android,5G,0,7,Thursday,0
+TXN18,19-05-2024 18:38,P2M,Healthcare,189,SUCCESS,18-25,18-25,Gujarat,SBI,PNB,iOS,5G,0,18,Sunday,1
+TXN19,11-11-2024 22:08,P2P,Healthcare,799,SUCCESS,26-35,18-25,Karnataka,ICICI,SBI,Android,4G,0,22,Monday,0
+TXN20,13-06-2024 18:25,P2P,Utilities,450,SUCCESS,26-35,36-45,Tamil Nadu,Yes Bank,IndusInd,iOS,WiFi,0,18,Thursday,0
+TXN21,19-05-2024 10:41,Bill Payment,Food,1341,SUCCESS,36-45,26-35,Karnataka,SBI,ICICI,Android,WiFi,0,10,Sunday,1
+TXN22,02-11-2024 17:13,Recharge,Entertainment,280,SUCCESS,26-35,26-35,Maharashtra,SBI,PNB,Android,4G,0,17,Saturday,1
+TXN23,18-10-2024 04:35,P2P,Shopping,397,SUCCESS,18-25,26-35,Delhi,Axis,SBI,Android,5G,0,4,Friday,0
+TXN24,21-01-2024 07:57,P2M,Grocery,1847,SUCCESS,18-25,46-55,Gujarat,HDFC,Yes Bank,Android,5G,0,7,Sunday,1
+TXN25,24-01-2024 10:43,Bill Payment,Grocery,690,SUCCESS,26-35,26-35,Tamil Nadu,Yes Bank,PNB,iOS,5G,0,10,Wednesday,0
+TXN26,01-07-2024 12:01,Bill Payment,Entertainment,218,SUCCESS,18-25,36-45,Karnataka,Axis,Yes Bank,Android,4G,0,12,Monday,0
+TXN27,28-08-2024 21:10,P2P,Food,1276,SUCCESS,18-25,18-25,Karnataka,Kotak,HDFC,Android,5G,0,21,Wednesday,0
+TXN28,09-11-2024 18:49,P2P,Grocery,146,SUCCESS,26-35,36-45,Delhi,PNB,HDFC,iOS,4G,0,18,Saturday,1
+TXN29,09-09-2024 15:24,P2P,Grocery,1755,SUCCESS,36-45,36-45,Delhi,SBI,IndusInd,Web,WiFi,0,15,Monday,0
+TXN30,18-10-2024 17:43,Bill Payment,Transport,165,SUCCESS,18-25,26-35,Rajasthan,SBI,SBI,Android,4G,0,17,Friday,0
+TXN31,20-12-2024 16:15,P2P,Healthcare,1495,SUCCESS,26-35,36-45,Gujarat,SBI,HDFC,Android,4G,0,16,Friday,0
+TXN32,17-12-2024 16:45,P2P,Grocery,394,SUCCESS,18-25,18-25,Gujarat,Yes Bank,SBI,Android,5G,0,16,Tuesday,0
+TXN33,11-05-2024 16:47,Recharge,Shopping,1693,SUCCESS,26-35,36-45,Telangana,SBI,IndusInd,Android,5G,0,16,Saturday,1
+TXN34,25-05-2024 13:30,P2M,Food,144,SUCCESS,18-25,36-45,Maharashtra,PNB,PNB,Android,WiFi,0,13,Saturday,1
+TXN35,23-02-2024 07:27,P2M,Fuel,1804,SUCCESS,36-45,26-35,Telangana,Axis,SBI,Android,4G,0,7,Friday,0
+TXN36,19-04-2024 22:12,P2P,Fuel,721,SUCCESS,46-55,18-25,Gujarat,HDFC,ICICI,Android,3G,0,22,Friday,0
+TXN37,26-07-2024 17:09,P2M,Shopping,7987,SUCCESS,18-25,36-45,Maharashtra,IndusInd,IndusInd,Android,4G,0,17,Friday,0
+TXN38,16-08-2024 21:26,Bill Payment,Shopping,5154,SUCCESS,56+,36-45,Uttar Pradesh,ICICI,SBI,Web,5G,0,21,Friday,0
+TXN39,23-07-2024 17:02,P2P,Entertainment,131,SUCCESS,36-45,18-25,West Bengal,Yes Bank,SBI,Web,5G,0,17,Tuesday,0
+TXN40,27-02-2024 01:43,P2M,Healthcare,192,SUCCESS,26-35,26-35,Karnataka,SBI,SBI,Android,5G,0,1,Tuesday,0
+TXN41,24-01-2024 10:28,Recharge,Food,82,SUCCESS,56+,18-25,Gujarat,HDFC,SBI,Android,5G,0,10,Wednesday,0
+TXN42,29-10-2024 12:54,P2M,Shopping,4309,SUCCESS,56+,36-45,Maharashtra,Kotak,HDFC,Android,4G,0,12,Tuesday,0
+TXN43,18-01-2024 13:49,P2P,Utilities,2338,SUCCESS,26-35,56+,Gujarat,Axis,SBI,Android,5G,0,13,Thursday,0
+TXN44,17-02-2024 14:03,P2M,Food,292,SUCCESS,56+,26-35,Tamil Nadu,SBI,SBI,Android,4G,0,14,Saturday,1
+TXN45,08-09-2024 09:21,P2P,Grocery,765,SUCCESS,18-25,36-45,Maharashtra,SBI,Yes Bank,iOS,WiFi,0,9,Sunday,1
+TXN46,29-09-2024 21:04,P2P,Transport,51,SUCCESS,18-25,36-45,Uttar Pradesh,Axis,IndusInd,iOS,4G,0,21,Sunday,1
+TXN47,04-03-2024 09:35,Bill Payment,Food,144,SUCCESS,18-25,18-25,Delhi,Yes Bank,Axis,Android,WiFi,0,9,Monday,0
+TXN48,06-02-2024 17:19,P2P,Other,994,SUCCESS,18-25,36-45,Uttar Pradesh,PNB,SBI,Android,5G,0,17,Tuesday,0
+TXN49,25-05-2024 17:14,P2P,Shopping,2393,SUCCESS,26-35,26-35,Maharashtra,ICICI,ICICI,Android,5G,0,17,Saturday,1
+TXN50,29-02-2024 18:47,P2P,Other,864,SUCCESS,36-45,46-55,West Bengal,Yes Bank,SBI,Android,4G,0,18,Thursday,0
+TXN51,05-12-2024 18:42,P2P,Transport,36,SUCCESS,36-45,36-45,Gujarat,ICICI,IndusInd,Android,WiFi,0,18,Thursday,0
+TXN52,15-02-2024 10:52,P2M,Utilities,582,SUCCESS,18-25,18-25,Delhi,PNB,IndusInd,Android,4G,0,10,Thursday,0
+TXN53,31-08-2024 15:47,P2P,Other,364,SUCCESS,36-45,26-35,Gujarat,SBI,HDFC,iOS,4G,0,15,Saturday,1
+TXN54,11-01-2024 18:25,P2P,Other,203,SUCCESS,36-45,18-25,Delhi,SBI,IndusInd,Android,4G,0,18,Thursday,0
+TXN55,29-04-2024 18:29,P2M,Shopping,4987,SUCCESS,56+,26-35,Karnataka,PNB,Yes Bank,iOS,4G,0,18,Monday,0
+TXN56,13-09-2024 10:41,P2P,Entertainment,213,SUCCESS,26-35,18-25,West Bengal,HDFC,Yes Bank,Android,4G,0,10,Friday,0
+TXN57,07-10-2024 05:43,P2M,Healthcare,1315,SUCCESS,26-35,18-25,West Bengal,HDFC,PNB,Android,4G,0,5,Monday,0
+TXN58,16-01-2024 21:57,P2P,Grocery,2685,SUCCESS,36-45,26-35,Gujarat,SBI,Kotak,Android,4G,0,21,Tuesday,0
+TXN59,21-11-2024 15:54,P2M,Entertainment,220,SUCCESS,18-25,18-25,Karnataka,PNB,ICICI,Android,4G,0,15,Thursday,0
+TXN60,14-10-2024 19:49,P2M,Fuel,1831,SUCCESS,36-45,26-35,Delhi,PNB,Kotak,iOS,5G,0,19,Monday,0
+TXN61,11-09-2024 20:20,P2P,Shopping,159,FAILED,56+,36-45,Tamil Nadu,SBI,PNB,Android,5G,0,20,Wednesday,0
+TXN62,25-08-2024 15:26,P2P,Entertainment,475,SUCCESS,18-25,18-25,Karnataka,ICICI,HDFC,Android,4G,0,15,Sunday,1
+TXN63,15-03-2024 17:31,P2M,Food,351,SUCCESS,26-35,36-45,Uttar Pradesh,Yes Bank,ICICI,Android,5G,0,17,Friday,0
+TXN64,12-01-2024 08:34,P2P,Other,726,SUCCESS,26-35,18-25,Uttar Pradesh,SBI,PNB,Android,WiFi,0,8,Friday,0
+TXN65,29-04-2024 17:25,P2P,Food,386,SUCCESS,26-35,18-25,Uttar Pradesh,SBI,Yes Bank,Android,4G,0,17,Monday,0
+TXN66,29-04-2024 17:06,P2M,Food,55,SUCCESS,26-35,18-25,Rajasthan,ICICI,ICICI,iOS,4G,0,17,Monday,0
+TXN67,14-07-2024 05:33,P2M,Other,394,SUCCESS,56+,46-55,Uttar Pradesh,SBI,ICICI,Android,4G,0,5,Sunday,1
+TXN68,14-08-2024 18:30,P2M,Shopping,221,FAILED,46-55,26-35,Delhi,HDFC,IndusInd,iOS,5G,0,18,Wednesday,0
+TXN69,06-11-2024 12:39,Bill Payment,Food,131,SUCCESS,26-35,18-25,Telangana,Axis,SBI,Android,4G,0,12,Wednesday,0
+TXN70,08-04-2024 12:29,P2M,Fuel,257,SUCCESS,56+,26-35,Uttar Pradesh,PNB,Axis,Android,5G,0,12,Monday,0
+TXN71,14-12-2024 12:14,Bill Payment,Shopping,183,SUCCESS,26-35,26-35,Gujarat,PNB,Yes Bank,iOS,4G,0,12,Saturday,1
+TXN72,27-01-2024 08:43,P2P,Healthcare,1376,SUCCESS,36-45,36-45,Gujarat,IndusInd,Kotak,Android,4G,0,8,Saturday,1
+TXN73,10-03-2024 16:12,P2P,Other,760,SUCCESS,36-45,36-45,Maharashtra,SBI,SBI,Android,4G,0,16,Sunday,1
+TXN74,04-12-2024 18:27,Bill Payment,Utilities,2060,SUCCESS,36-45,46-55,Karnataka,Axis,ICICI,iOS,4G,0,18,Wednesday,0
+TXN75,29-08-2024 21:38,P2P,Food,929,SUCCESS,26-35,26-35,West Bengal,SBI,Yes Bank,iOS,4G,0,21,Thursday,0
+TXN76,19-05-2024 19:09,P2P,Transport,89,SUCCESS,36-45,36-45,Karnataka,PNB,Kotak,Android,5G,0,19,Sunday,1
+TXN77,16-12-2024 14:23,Bill Payment,Utilities,417,SUCCESS,36-45,36-45,Telangana,HDFC,SBI,Android,5G,0,14,Monday,0
+TXN78,04-09-2024 20:34,P2P,Utilities,1415,SUCCESS,36-45,36-45,Tamil Nadu,ICICI,SBI,Android,4G,0,20,Wednesday,0
+TXN79,18-09-2024 07:14,P2M,Education,588,SUCCESS,26-35,36-45,Rajasthan,Yes Bank,Axis,Android,4G,0,7,Wednesday,0
+TXN80,08-11-2024 20:26,P2M,Utilities,8335,SUCCESS,46-55,46-55,West Bengal,Axis,IndusInd,Web,4G,0,20,Friday,0
+TXN81,20-10-2024 13:14,Bill Payment,Utilities,4279,SUCCESS,36-45,36-45,Uttar Pradesh,PNB,SBI,Android,5G,0,13,Sunday,1
+TXN82,03-08-2024 13:15,P2M,Utilities,318,SUCCESS,36-45,18-25,Andhra Pradesh,PNB,Axis,Android,5G,0,13,Saturday,1
+TXN83,03-01-2024 10:03,P2M,Shopping,1496,SUCCESS,46-55,36-45,Uttar Pradesh,PNB,Kotak,Android,4G,0,10,Wednesday,0
+TXN84,04-11-2024 18:06,P2P,Utilities,924,SUCCESS,18-25,36-45,Karnataka,ICICI,ICICI,Android,4G,0,18,Monday,0
+TXN85,30-04-2024 19:43,P2P,Food,291,SUCCESS,36-45,46-55,Maharashtra,HDFC,ICICI,Web,4G,0,19,Tuesday,0
+TXN86,02-09-2024 18:42,Bill Payment,Grocery,665,SUCCESS,36-45,46-55,Maharashtra,Kotak,HDFC,iOS,4G,0,18,Monday,0
+TXN87,20-01-2024 11:01,P2P,Fuel,669,SUCCESS,36-45,36-45,Delhi,SBI,ICICI,iOS,3G,0,11,Saturday,1
+TXN88,27-09-2024 22:15,Recharge,Grocery,1855,SUCCESS,36-45,36-45,Tamil Nadu,IndusInd,ICICI,Android,4G,0,22,Friday,0
+TXN89,03-04-2024 12:09,P2M,Utilities,1015,SUCCESS,18-25,26-35,Uttar Pradesh,Axis,SBI,iOS,4G,0,12,Wednesday,0
+TXN90,01-08-2024 09:40,P2M,Other,188,SUCCESS,26-35,36-45,Gujarat,PNB,Kotak,Android,4G,0,9,Thursday,0
+TXN91,14-07-2024 12:18,P2P,Other,1702,SUCCESS,26-35,18-25,Telangana,SBI,SBI,Android,4G,0,12,Sunday,1
+TXN92,04-08-2024 10:24,Bill Payment,Food,1816,SUCCESS,18-25,18-25,Rajasthan,Kotak,SBI,Android,4G,0,10,Sunday,1
+TXN93,19-05-2024 18:03,P2P,Other,712,SUCCESS,46-55,26-35,Gujarat,SBI,PNB,Android,5G,0,18,Sunday,1
+TXN94,12-10-2024 20:55,P2M,Grocery,461,SUCCESS,26-35,18-25,Karnataka,SBI,IndusInd,Android,5G,0,20,Saturday,1
+TXN95,22-01-2024 16:45,P2P,Transport,224,SUCCESS,26-35,18-25,Gujarat,Axis,SBI,Android,5G,0,16,Monday,0
+TXN96,23-03-2024 22:12,P2P,Shopping,2202,SUCCESS,36-45,46-55,West Bengal,Axis,SBI,Android,4G,0,22,Saturday,1
+TXN97,19-02-2024 18:16,Bill Payment,Shopping,7821,SUCCESS,26-35,26-35,Rajasthan,Yes Bank,Kotak,Web,5G,0,18,Monday,0
+TXN98,14-04-2024 20:11,P2M,Shopping,2135,SUCCESS,18-25,26-35,Maharashtra,ICICI,HDFC,Android,4G,0,20,Sunday,1
+TXN99,16-07-2024 12:59,P2P,Utilities,2776,SUCCESS,36-45,26-35,Telangana,IndusInd,SBI,Android,3G,0,12,Tuesday,0
+TXN100,24-10-2024 16:39,P2M,Grocery,543,SUCCESS,26-35,26-35,Karnataka,HDFC,Axis,Android,4G,0,16,Thursday,0
+TXN101,09-12-2024 19:55,P2P,Food,215,SUCCESS,18-25,26-35,Karnataka,ICICI,Kotak,Android,4G,0,19,Monday,0
+TXN102,19-02-2024 18:16,P2M,Education,8754,SUCCESS,36-45,26-35,West Bengal,ICICI,PNB,Android,4G,0,18,Monday,0
+TXN103,25-08-2024 06:09,Bill Payment,Grocery,561,SUCCESS,26-35,26-35,Andhra Pradesh,ICICI,Axis,Android,4G,0,6,Sunday,1
+TXN104,16-09-2024 18:23,P2P,Other,147,SUCCESS,26-35,36-45,West Bengal,SBI,ICICI,Android,4G,0,18,Monday,0
+TXN105,09-06-2024 20:44,Bill Payment,Other,661,SUCCESS,36-45,36-45,West Bengal,Yes Bank,Kotak,iOS,4G,0,20,Sunday,1
+TXN106,29-07-2024 20:35,P2M,Shopping,7145,SUCCESS,18-25,46-55,West Bengal,PNB,Yes Bank,Android,WiFi,0,20,Monday,0
+TXN107,17-07-2024 10:07,P2P,Fuel,4468,SUCCESS,36-45,36-45,Gujarat,Kotak,Yes Bank,Android,5G,0,10,Wednesday,0
+TXN108,24-12-2024 11:08,Bill Payment,Utilities,2850,SUCCESS,26-35,36-45,Rajasthan,Kotak,ICICI,Android,WiFi,0,11,Tuesday,0
+TXN109,13-10-2024 20:29,P2M,Utilities,2142,SUCCESS,18-25,36-45,Rajasthan,ICICI,IndusInd,Android,4G,0,20,Sunday,1
+TXN110,19-07-2024 11:30,Recharge,Food,61,SUCCESS,26-35,26-35,Maharashtra,PNB,SBI,Android,5G,0,11,Friday,0
+TXN111,16-04-2024 16:11,P2P,Food,1288,SUCCESS,36-45,46-55,Gujarat,SBI,ICICI,Android,4G,0,16,Tuesday,0
+TXN112,11-08-2024 19:39,P2P,Food,1014,SUCCESS,36-45,36-45,Delhi,IndusInd,PNB,Android,3G,0,19,Sunday,1
+TXN113,05-02-2024 19:13,Bill Payment,Other,2474,SUCCESS,56+,46-55,Delhi,Axis,HDFC,Web,WiFi,0,19,Monday,0
+TXN114,25-11-2024 19:54,P2M,Healthcare,861,SUCCESS,56+,26-35,Rajasthan,Yes Bank,SBI,Android,5G,0,19,Monday,0
+TXN115,26-04-2024 20:45,P2P,Transport,507,SUCCESS,36-45,36-45,Andhra Pradesh,SBI,Axis,Android,5G,0,20,Friday,0
+TXN116,06-08-2024 13:16,P2M,Shopping,404,SUCCESS,18-25,46-55,Gujarat,ICICI,SBI,Android,4G,0,13,Tuesday,0
+TXN117,04-02-2024 17:37,P2M,Other,621,SUCCESS,36-45,18-25,Delhi,SBI,Yes Bank,iOS,WiFi,0,17,Sunday,1
+TXN118,24-10-2024 09:26,Bill Payment,Fuel,1830,SUCCESS,18-25,18-25,Telangana,IndusInd,SBI,Android,4G,0,9,Thursday,0
+TXN119,03-04-2024 13:21,P2M,Other,657,SUCCESS,26-35,26-35,Delhi,PNB,HDFC,iOS,4G,0,13,Wednesday,0
+TXN120,25-10-2024 11:34,P2P,Shopping,6804,SUCCESS,26-35,26-35,Karnataka,Yes Bank,SBI,Android,5G,0,11,Friday,0
+TXN121,20-03-2024 05:14,P2P,Utilities,261,SUCCESS,26-35,26-35,Gujarat,HDFC,SBI,Android,4G,0,5,Wednesday,0
+TXN122,20-01-2024 13:38,P2P,Entertainment,268,SUCCESS,26-35,26-35,Uttar Pradesh,HDFC,PNB,Android,WiFi,0,13,Saturday,1
+TXN123,03-01-2024 14:46,P2P,Transport,1410,SUCCESS,26-35,18-25,Karnataka,SBI,Yes Bank,Android,4G,0,14,Wednesday,0
+TXN124,23-01-2024 11:47,P2P,Utilities,342,SUCCESS,26-35,26-35,Uttar Pradesh,Kotak,SBI,iOS,WiFi,0,11,Tuesday,0
+TXN125,09-04-2024 13:39,Bill Payment,Utilities,3941,SUCCESS,36-45,26-35,Telangana,HDFC,HDFC,iOS,4G,0,13,Tuesday,0
+TXN126,12-05-2024 11:54,P2M,Grocery,4073,SUCCESS,36-45,56+,Gujarat,Axis,Yes Bank,Android,WiFi,0,11,Sunday,1
+TXN127,29-04-2024 15:05,P2M,Food,91,SUCCESS,56+,46-55,Telangana,Axis,SBI,Android,4G,0,15,Monday,0
+TXN128,14-09-2024 13:32,Bill Payment,Entertainment,209,SUCCESS,56+,46-55,Karnataka,HDFC,ICICI,Web,4G,0,13,Saturday,1
+TXN129,09-03-2024 18:13,P2P,Transport,37,SUCCESS,26-35,26-35,Karnataka,HDFC,IndusInd,Android,5G,0,18,Saturday,1
+TXN130,05-09-2024 11:42,P2P,Fuel,596,SUCCESS,26-35,18-25,Maharashtra,Axis,HDFC,Android,4G,0,11,Thursday,0
+TXN131,10-10-2024 23:26,P2M,Transport,66,SUCCESS,36-45,36-45,Maharashtra,ICICI,PNB,iOS,4G,0,23,Thursday,0
+TXN132,28-12-2024 10:47,Recharge,Food,225,SUCCESS,26-35,36-45,Maharashtra,ICICI,HDFC,Android,4G,0,10,Saturday,1
+TXN133,05-04-2024 20:33,P2M,Entertainment,187,SUCCESS,26-35,18-25,Delhi,SBI,Axis,Android,4G,0,20,Friday,0
+TXN134,15-10-2024 19:38,P2P,Shopping,7155,SUCCESS,18-25,46-55,Tamil Nadu,ICICI,IndusInd,Android,4G,0,19,Tuesday,0
+TXN135,14-12-2024 19:24,Bill Payment,Shopping,5879,SUCCESS,18-25,18-25,Telangana,SBI,PNB,Android,5G,0,19,Saturday,1
+TXN136,02-09-2024 20:42,P2P,Entertainment,561,SUCCESS,36-45,56+,Delhi,SBI,Yes Bank,Android,WiFi,0,20,Monday,0
+TXN137,02-12-2024 13:26,Bill Payment,Utilities,6011,SUCCESS,36-45,18-25,Maharashtra,SBI,Yes Bank,Android,4G,0,13,Monday,0
+TXN138,15-08-2024 07:34,P2P,Entertainment,223,SUCCESS,26-35,26-35,Telangana,SBI,SBI,Android,5G,0,7,Thursday,0
+TXN139,07-11-2024 15:35,Bill Payment,Fuel,4864,SUCCESS,46-55,36-45,Maharashtra,Kotak,SBI,iOS,WiFi,0,15,Thursday,0
+TXN140,04-09-2024 16:28,P2M,Food,2350,SUCCESS,26-35,26-35,Delhi,SBI,IndusInd,Android,5G,0,16,Wednesday,0
+TXN141,09-04-2024 14:17,P2M,Utilities,284,SUCCESS,26-35,26-35,Telangana,SBI,Kotak,Android,4G,0,14,Tuesday,0
+TXN142,22-06-2024 23:08,P2P,Shopping,1174,SUCCESS,36-45,46-55,West Bengal,IndusInd,HDFC,Android,4G,0,23,Saturday,1
+TXN143,15-08-2024 19:38,P2P,Shopping,1773,SUCCESS,46-55,36-45,Maharashtra,IndusInd,ICICI,Android,4G,0,19,Thursday,0
+TXN144,07-01-2024 09:55,P2P,Grocery,2839,SUCCESS,26-35,26-35,Uttar Pradesh,HDFC,SBI,iOS,4G,0,9,Sunday,1
+TXN145,13-06-2024 08:59,P2P,Shopping,3757,SUCCESS,46-55,26-35,Uttar Pradesh,SBI,SBI,Android,4G,0,8,Thursday,0
+TXN146,14-10-2024 12:46,P2P,Grocery,599,SUCCESS,46-55,26-35,Uttar Pradesh,ICICI,ICICI,Android,4G,0,12,Monday,0
+TXN147,18-02-2024 16:12,P2P,Healthcare,720,SUCCESS,26-35,18-25,Gujarat,PNB,ICICI,iOS,4G,0,16,Sunday,1
+TXN148,05-05-2024 12:38,P2M,Food,646,SUCCESS,26-35,36-45,Rajasthan,IndusInd,SBI,Android,5G,0,12,Sunday,1
+TXN149,06-06-2024 19:51,P2M,Food,211,SUCCESS,26-35,18-25,Delhi,SBI,SBI,iOS,4G,0,19,Thursday,0
+TXN150,19-08-2024 17:33,P2P,Transport,58,SUCCESS,36-45,46-55,Rajasthan,IndusInd,PNB,Android,5G,0,17,Monday,0
+TXN151,17-05-2024 17:03,P2P,Food,377,SUCCESS,36-45,46-55,Maharashtra,ICICI,SBI,iOS,5G,0,17,Friday,0
+TXN152,08-03-2024 21:15,Recharge,Transport,1072,SUCCESS,36-45,18-25,Maharashtra,Axis,HDFC,Android,5G,0,21,Friday,0
+TXN153,05-02-2024 08:16,P2M,Transport,16,FAILED,26-35,26-35,Uttar Pradesh,PNB,PNB,Android,WiFi,0,8,Monday,0
+TXN154,13-11-2024 17:30,P2P,Food,1753,SUCCESS,26-35,18-25,Karnataka,PNB,Axis,Android,WiFi,0,17,Wednesday,0
+TXN155,21-12-2024 10:58,P2P,Grocery,345,SUCCESS,18-25,26-35,West Bengal,ICICI,SBI,iOS,4G,0,10,Saturday,1
+TXN156,22-02-2024 11:42,P2M,Grocery,174,SUCCESS,18-25,36-45,Uttar Pradesh,HDFC,SBI,Android,4G,0,11,Thursday,0
+TXN157,01-11-2024 12:59,P2P,Entertainment,69,SUCCESS,26-35,26-35,Uttar Pradesh,SBI,PNB,Android,4G,0,12,Friday,0
+TXN158,09-05-2024 16:22,P2M,Grocery,301,SUCCESS,36-45,18-25,Telangana,SBI,ICICI,Android,4G,0,16,Thursday,0
+TXN159,02-06-2024 22:38,Recharge,Utilities,3091,SUCCESS,26-35,18-25,Maharashtra,ICICI,IndusInd,Android,4G,0,22,Sunday,1
+TXN160,16-02-2024 18:51,Bill Payment,Shopping,9619,SUCCESS,18-25,18-25,Maharashtra,SBI,IndusInd,Android,4G,0,18,Friday,0
+TXN161,13-09-2024 12:17,P2P,Entertainment,727,SUCCESS,36-45,26-35,Gujarat,Yes Bank,Yes Bank,iOS,4G,0,12,Friday,0
+TXN162,12-10-2024 17:50,P2M,Fuel,375,SUCCESS,56+,26-35,Rajasthan,HDFC,Axis,Android,4G,0,17,Saturday,1
+TXN163,29-12-2024 15:13,P2M,Grocery,700,SUCCESS,36-45,36-45,Maharashtra,Kotak,Yes Bank,Android,5G,0,15,Sunday,1
+TXN164,19-05-2024 17:12,Bill Payment,Shopping,2289,SUCCESS,18-25,18-25,Andhra Pradesh,Kotak,Kotak,Android,5G,0,17,Sunday,1
+TXN165,14-12-2024 17:48,P2P,Fuel,797,SUCCESS,26-35,36-45,Tamil Nadu,SBI,SBI,Web,5G,0,17,Saturday,1
+TXN166,29-10-2024 04:05,P2P,Shopping,9228,SUCCESS,18-25,18-25,West Bengal,SBI,Yes Bank,Android,WiFi,0,4,Tuesday,0
+TXN167,13-02-2024 16:30,P2P,Other,1553,SUCCESS,26-35,18-25,Karnataka,PNB,SBI,Android,3G,0,16,Tuesday,0
+TXN168,18-08-2024 09:16,P2M,Entertainment,578,SUCCESS,26-35,18-25,Andhra Pradesh,HDFC,HDFC,Android,4G,0,9,Sunday,1
+TXN169,20-07-2024 20:07,P2M,Food,232,FAILED,26-35,26-35,Andhra Pradesh,Axis,SBI,iOS,WiFi,0,20,Saturday,1
+TXN170,30-07-2024 18:10,P2M,Fuel,2545,SUCCESS,36-45,26-35,Uttar Pradesh,SBI,SBI,iOS,4G,0,18,Tuesday,0
+TXN171,25-01-2024 07:20,P2P,Shopping,457,SUCCESS,56+,26-35,Maharashtra,SBI,IndusInd,Android,4G,0,7,Thursday,0
+TXN172,27-09-2024 05:16,Recharge,Grocery,317,SUCCESS,26-35,18-25,Delhi,Yes Bank,IndusInd,Android,3G,0,5,Friday,0
+TXN173,13-08-2024 18:50,P2M,Food,132,SUCCESS,26-35,46-55,Uttar Pradesh,SBI,SBI,Android,4G,0,18,Tuesday,0
+TXN174,04-04-2024 12:34,P2P,Grocery,1414,SUCCESS,46-55,26-35,Rajasthan,IndusInd,SBI,Android,4G,0,12,Thursday,0
+TXN175,17-03-2024 17:51,P2M,Food,355,SUCCESS,26-35,26-35,Maharashtra,SBI,Yes Bank,Android,4G,0,17,Sunday,1
+TXN176,15-01-2024 10:49,P2M,Education,2335,SUCCESS,18-25,26-35,Maharashtra,Axis,SBI,Android,4G,0,10,Monday,0
+TXN177,24-09-2024 18:42,P2M,Fuel,443,SUCCESS,36-45,26-35,Andhra Pradesh,Kotak,SBI,Android,4G,0,18,Tuesday,0
+TXN178,05-05-2024 20:50,P2P,Food,167,SUCCESS,36-45,36-45,Tamil Nadu,PNB,SBI,Android,5G,0,20,Sunday,1
+TXN179,21-07-2024 19:48,P2P,Shopping,7210,SUCCESS,26-35,18-25,Maharashtra,Axis,Axis,Android,5G,0,19,Sunday,1
+TXN180,07-06-2024 21:47,P2P,Utilities,2148,SUCCESS,18-25,26-35,Uttar Pradesh,SBI,SBI,Android,5G,0,21,Friday,0
+TXN181,20-01-2024 19:24,P2M,Food,57,SUCCESS,18-25,18-25,Maharashtra,SBI,HDFC,Android,4G,0,19,Saturday,1
+TXN182,06-12-2024 15:39,P2P,Grocery,2241,FAILED,26-35,18-25,Tamil Nadu,SBI,ICICI,Android,5G,0,15,Friday,0
+TXN183,21-05-2024 21:29,P2M,Shopping,1688,SUCCESS,26-35,18-25,Delhi,SBI,SBI,iOS,4G,0,21,Tuesday,0
+TXN184,26-08-2024 09:03,P2P,Healthcare,250,SUCCESS,18-25,26-35,Uttar Pradesh,SBI,Yes Bank,Android,5G,0,9,Monday,0
+TXN185,05-02-2024 14:15,P2P,Utilities,957,SUCCESS,26-35,46-55,Karnataka,SBI,Axis,iOS,WiFi,0,14,Monday,0
+TXN186,05-03-2024 17:03,Bill Payment,Shopping,2555,SUCCESS,26-35,46-55,Gujarat,Axis,PNB,Android,4G,0,17,Tuesday,0
+TXN187,19-02-2024 14:56,P2P,Shopping,6786,SUCCESS,56+,36-45,Karnataka,PNB,Yes Bank,Android,4G,0,14,Monday,0
+TXN188,25-06-2024 18:04,P2M,Shopping,1108,SUCCESS,18-25,36-45,Gujarat,PNB,ICICI,Android,5G,0,18,Tuesday,0
+TXN189,23-06-2024 01:12,P2M,Fuel,503,SUCCESS,36-45,36-45,Delhi,Kotak,PNB,iOS,5G,0,1,Sunday,1
+TXN190,02-11-2024 14:06,Bill Payment,Grocery,1990,SUCCESS,18-25,26-35,Tamil Nadu,ICICI,Yes Bank,Android,5G,0,14,Saturday,1
+TXN191,07-11-2024 16:22,P2P,Shopping,1838,SUCCESS,36-45,26-35,Karnataka,HDFC,ICICI,Android,3G,0,16,Thursday,0
+TXN192,15-07-2024 21:31,P2P,Food,744,SUCCESS,26-35,46-55,Telangana,Axis,SBI,Android,4G,0,21,Monday,0
+TXN193,14-01-2024 21:13,P2M,Grocery,831,SUCCESS,18-25,36-45,Karnataka,SBI,PNB,Android,4G,0,21,Sunday,1
+TXN194,02-02-2024 20:17,P2M,Other,1487,SUCCESS,18-25,18-25,Tamil Nadu,PNB,SBI,Android,4G,0,20,Friday,0
+TXN195,06-02-2024 19:21,Bill Payment,Food,303,SUCCESS,26-35,18-25,Telangana,PNB,Yes Bank,iOS,3G,0,19,Tuesday,0
+TXN196,07-12-2024 21:46,Bill Payment,Utilities,5798,SUCCESS,36-45,56+,Rajasthan,Axis,PNB,Android,WiFi,0,21,Saturday,1
+TXN197,23-03-2024 21:20,P2P,Grocery,1490,FAILED,36-45,26-35,Maharashtra,SBI,ICICI,Android,4G,0,21,Saturday,1
+TXN198,19-04-2024 20:35,P2P,Other,1092,SUCCESS,26-35,26-35,Uttar Pradesh,IndusInd,Yes Bank,iOS,4G,0,20,Friday,0
+TXN199,11-05-2024 17:56,P2M,Transport,268,SUCCESS,36-45,56+,Delhi,Axis,ICICI,Android,4G,0,17,Saturday,1
+TXN200,06-03-2024 00:47,Bill Payment,Entertainment,1659,FAILED,36-45,18-25,Tamil Nadu,SBI,Axis,Android,4G,0,0,Wednesday,0
+TXN201,07-03-2024 14:29,Recharge,Food,772,SUCCESS,36-45,18-25,Maharashtra,ICICI,Axis,Android,WiFi,0,14,Thursday,0
+TXN202,12-10-2024 11:19,P2M,Grocery,447,SUCCESS,46-55,36-45,Rajasthan,HDFC,IndusInd,Android,4G,0,11,Saturday,1
+TXN203,24-09-2024 17:28,Bill Payment,Utilities,321,SUCCESS,26-35,26-35,Tamil Nadu,PNB,IndusInd,Android,WiFi,0,17,Tuesday,0
+TXN204,22-11-2024 18:55,P2M,Food,488,SUCCESS,18-25,18-25,Delhi,Kotak,PNB,Android,4G,0,18,Friday,0
+TXN205,21-01-2024 19:27,P2P,Food,291,SUCCESS,26-35,36-45,West Bengal,Axis,ICICI,Android,5G,0,19,Sunday,1
+TXN206,13-09-2024 16:18,P2M,Fuel,597,SUCCESS,26-35,18-25,Uttar Pradesh,SBI,ICICI,Android,4G,0,16,Friday,0
+TXN207,27-12-2024 13:10,P2M,Transport,111,SUCCESS,36-45,26-35,Telangana,SBI,Yes Bank,Android,4G,0,13,Friday,0
+TXN208,31-03-2024 11:33,P2M,Other,728,SUCCESS,18-25,46-55,Andhra Pradesh,PNB,Kotak,Android,5G,0,11,Sunday,1
+TXN209,20-08-2024 23:26,Bill Payment,Transport,91,SUCCESS,26-35,18-25,Gujarat,SBI,IndusInd,Android,5G,0,23,Tuesday,0
+TXN210,01-08-2024 12:21,Bill Payment,Shopping,7683,SUCCESS,18-25,18-25,Karnataka,Kotak,Axis,Android,4G,0,12,Thursday,0
+TXN211,10-04-2024 07:06,P2P,Other,330,SUCCESS,26-35,26-35,West Bengal,SBI,ICICI,Android,4G,0,7,Wednesday,0
+TXN212,04-08-2024 09:01,Recharge,Entertainment,106,SUCCESS,36-45,26-35,Telangana,Kotak,HDFC,Android,4G,0,9,Sunday,1
+TXN213,31-10-2024 20:07,P2P,Grocery,120,SUCCESS,26-35,36-45,Andhra Pradesh,IndusInd,HDFC,Android,4G,0,20,Thursday,0
+TXN214,15-10-2024 21:09,P2P,Food,178,SUCCESS,18-25,18-25,Andhra Pradesh,Yes Bank,Yes Bank,Android,4G,0,21,Tuesday,0
+TXN215,07-05-2024 12:38,P2P,Grocery,343,SUCCESS,56+,26-35,Karnataka,ICICI,ICICI,Android,4G,0,12,Tuesday,0
+TXN216,28-01-2024 22:56,P2M,Healthcare,105,SUCCESS,18-25,18-25,Andhra Pradesh,Yes Bank,Axis,iOS,5G,0,22,Sunday,1
+TXN217,02-09-2024 16:36,P2P,Utilities,2679,SUCCESS,36-45,36-45,Rajasthan,HDFC,HDFC,iOS,4G,0,16,Monday,0
+TXN218,27-03-2024 15:38,Bill Payment,Grocery,281,SUCCESS,26-35,26-35,Telangana,Axis,Axis,Android,4G,0,15,Wednesday,0
+TXN219,02-02-2024 16:40,Bill Payment,Entertainment,120,SUCCESS,36-45,26-35,Tamil Nadu,IndusInd,SBI,Android,4G,0,16,Friday,0
+TXN220,06-09-2024 07:47,P2P,Other,3324,SUCCESS,26-35,36-45,Tamil Nadu,HDFC,SBI,Android,WiFi,0,7,Friday,0
+TXN221,09-01-2024 08:28,P2P,Food,151,FAILED,36-45,36-45,West Bengal,SBI,HDFC,Android,4G,0,8,Tuesday,0
+TXN222,07-04-2024 11:34,P2P,Utilities,1687,SUCCESS,26-35,36-45,Uttar Pradesh,HDFC,HDFC,Android,4G,0,11,Sunday,1
+TXN223,22-02-2024 18:40,P2P,Food,89,SUCCESS,18-25,36-45,Telangana,Axis,HDFC,iOS,4G,0,18,Thursday,0
+TXN224,06-01-2024 15:42,Bill Payment,Entertainment,129,SUCCESS,56+,26-35,Karnataka,Axis,Yes Bank,Android,WiFi,0,15,Saturday,1
+TXN225,09-02-2024 05:48,P2P,Grocery,188,SUCCESS,26-35,18-25,Delhi,PNB,SBI,Android,4G,0,5,Friday,0
+TXN226,19-04-2024 21:57,Bill Payment,Food,69,SUCCESS,18-25,26-35,Andhra Pradesh,ICICI,HDFC,Android,4G,0,21,Friday,0
+TXN227,06-05-2024 11:36,P2M,Grocery,263,SUCCESS,18-25,18-25,West Bengal,ICICI,Axis,Android,4G,0,11,Monday,0
+TXN228,26-08-2024 13:03,Bill Payment,Other,386,SUCCESS,36-45,26-35,Delhi,Yes Bank,Kotak,Android,4G,0,13,Monday,0
+TXN229,09-10-2024 11:26,Bill Payment,Entertainment,546,SUCCESS,18-25,18-25,Tamil Nadu,SBI,SBI,Android,4G,0,11,Wednesday,0
+TXN230,20-12-2024 17:29,Bill Payment,Healthcare,1233,SUCCESS,26-35,36-45,West Bengal,Yes Bank,PNB,Android,4G,0,17,Friday,0
+TXN231,13-04-2024 13:34,P2M,Utilities,5295,SUCCESS,36-45,18-25,Rajasthan,PNB,SBI,Android,4G,0,13,Saturday,1
+TXN232,01-10-2024 00:01,P2M,Grocery,89,SUCCESS,56+,36-45,Tamil Nadu,SBI,ICICI,Android,4G,0,0,Tuesday,0
+TXN233,01-06-2024 19:45,P2M,Food,239,SUCCESS,36-45,18-25,West Bengal,PNB,IndusInd,Android,4G,0,19,Saturday,1
+TXN234,09-03-2024 19:03,P2P,Grocery,1585,SUCCESS,56+,46-55,Telangana,Axis,IndusInd,iOS,5G,0,19,Saturday,1
+TXN235,08-11-2024 09:04,P2M,Grocery,348,SUCCESS,18-25,26-35,Gujarat,HDFC,Yes Bank,Android,5G,0,9,Friday,0
+TXN236,19-12-2024 16:57,P2M,Shopping,1946,SUCCESS,36-45,18-25,Tamil Nadu,Axis,HDFC,Android,5G,0,16,Thursday,0
+TXN237,04-07-2024 17:49,P2P,Other,321,SUCCESS,56+,36-45,Delhi,ICICI,Axis,Android,4G,0,17,Thursday,0
+TXN238,15-06-2024 18:47,P2M,Grocery,348,SUCCESS,56+,46-55,Andhra Pradesh,SBI,Yes Bank,Android,5G,0,18,Saturday,1
+TXN239,14-04-2024 22:44,P2P,Grocery,1509,SUCCESS,46-55,56+,Rajasthan,IndusInd,Yes Bank,Android,4G,0,22,Sunday,1
+TXN240,28-09-2024 20:20,Bill Payment,Grocery,854,SUCCESS,46-55,26-35,Maharashtra,IndusInd,PNB,iOS,WiFi,0,20,Saturday,1
+TXN241,21-03-2024 17:24,P2P,Healthcare,4536,FAILED,56+,26-35,Rajasthan,PNB,Axis,iOS,4G,0,17,Thursday,0
+TXN242,19-04-2024 19:02,Bill Payment,Entertainment,116,FAILED,36-45,56+,Delhi,Yes Bank,IndusInd,Android,4G,0,19,Friday,0
+TXN243,19-02-2024 17:57,P2M,Grocery,417,SUCCESS,36-45,36-45,Uttar Pradesh,SBI,Axis,Web,5G,0,17,Monday,0
+TXN244,24-08-2024 18:24,P2P,Grocery,1242,SUCCESS,36-45,18-25,Telangana,SBI,SBI,iOS,4G,0,18,Saturday,1
+TXN245,27-02-2024 20:23,P2M,Other,767,SUCCESS,36-45,46-55,Uttar Pradesh,Kotak,PNB,Android,WiFi,0,20,Tuesday,0
+TXN246,04-05-2024 08:53,P2M,Utilities,1849,FAILED,18-25,18-25,Karnataka,Yes Bank,PNB,Android,WiFi,0,8,Saturday,1
+TXN247,19-07-2024 08:17,P2P,Education,3518,SUCCESS,36-45,18-25,Karnataka,Yes Bank,SBI,Android,4G,0,8,Friday,0
+TXN248,20-12-2024 07:30,P2P,Food,36,SUCCESS,26-35,26-35,Uttar Pradesh,Yes Bank,IndusInd,Android,4G,0,7,Friday,0
+TXN249,06-01-2024 09:10,P2M,Food,760,SUCCESS,46-55,46-55,Andhra Pradesh,PNB,PNB,Android,4G,0,9,Saturday,1
+TXN250,22-03-2024 20:02,Bill Payment,Other,852,SUCCESS,36-45,56+,Maharashtra,HDFC,Yes Bank,iOS,4G,0,20,Friday,0
+TXN251,23-03-2024 23:29,P2P,Fuel,2521,SUCCESS,26-35,26-35,Maharashtra,PNB,ICICI,Android,5G,0,23,Saturday,1
+TXN252,11-03-2024 23:56,Recharge,Entertainment,138,SUCCESS,18-25,18-25,Maharashtra,HDFC,Kotak,Android,WiFi,0,23,Monday,0
+TXN253,30-10-2024 21:46,P2P,Food,582,SUCCESS,18-25,36-45,Maharashtra,Kotak,Yes Bank,Android,4G,0,21,Wednesday,0
+TXN254,14-03-2024 10:20,Recharge,Transport,619,SUCCESS,26-35,18-25,West Bengal,IndusInd,IndusInd,iOS,WiFi,0,10,Thursday,0
+TXN255,09-12-2024 15:59,P2M,Healthcare,705,SUCCESS,26-35,18-25,Gujarat,SBI,Yes Bank,Android,4G,0,15,Monday,0
+TXN256,02-10-2024 17:10,Bill Payment,Other,529,SUCCESS,26-35,36-45,Telangana,Yes Bank,SBI,iOS,4G,0,17,Wednesday,0
+TXN257,09-12-2024 09:53,P2M,Healthcare,173,SUCCESS,18-25,18-25,Karnataka,PNB,Yes Bank,Android,4G,0,9,Monday,0
+TXN258,11-11-2024 17:13,P2M,Food,1048,SUCCESS,18-25,18-25,Delhi,PNB,IndusInd,Android,5G,0,17,Monday,0
+TXN259,13-12-2024 09:51,P2P,Other,182,SUCCESS,26-35,36-45,Karnataka,Yes Bank,Yes Bank,Android,4G,0,9,Friday,0
+TXN260,01-11-2024 13:34,P2M,Education,1758,SUCCESS,36-45,36-45,Maharashtra,Yes Bank,IndusInd,Android,4G,0,13,Friday,0
+TXN261,26-09-2024 13:42,P2M,Transport,24,SUCCESS,18-25,26-35,Telangana,HDFC,PNB,Android,4G,0,13,Thursday,0
+TXN262,18-04-2024 11:57,Bill Payment,Food,190,SUCCESS,26-35,18-25,Gujarat,SBI,Axis,iOS,4G,0,11,Thursday,0
+TXN263,08-05-2024 12:36,P2M,Grocery,1884,SUCCESS,18-25,18-25,Maharashtra,PNB,Axis,Android,4G,0,12,Wednesday,0
+TXN264,26-12-2024 17:04,P2M,Food,68,SUCCESS,36-45,26-35,Gujarat,PNB,Yes Bank,iOS,WiFi,0,17,Thursday,0
+TXN265,27-12-2024 18:59,Bill Payment,Other,310,SUCCESS,18-25,18-25,Karnataka,Kotak,ICICI,Android,5G,0,18,Friday,0
+TXN266,28-10-2024 14:01,P2P,Utilities,1526,SUCCESS,18-25,26-35,Delhi,SBI,Kotak,Android,3G,0,14,Monday,0
+TXN267,22-11-2024 14:59,P2M,Grocery,520,SUCCESS,36-45,36-45,Karnataka,Yes Bank,PNB,iOS,4G,0,14,Friday,0
+TXN268,12-10-2024 21:22,P2M,Food,415,SUCCESS,18-25,26-35,West Bengal,SBI,PNB,Android,4G,0,21,Saturday,1
+TXN269,15-11-2024 12:02,P2P,Utilities,1921,SUCCESS,36-45,26-35,Tamil Nadu,Kotak,SBI,iOS,5G,0,12,Friday,0
+TXN270,11-01-2024 13:12,P2P,Other,427,SUCCESS,18-25,46-55,Uttar Pradesh,Axis,HDFC,iOS,4G,0,13,Thursday,0
+TXN271,21-06-2024 20:33,P2P,Food,1532,SUCCESS,36-45,26-35,Maharashtra,IndusInd,HDFC,Android,WiFi,0,20,Friday,0
+TXN272,21-10-2024 07:42,P2P,Utilities,280,SUCCESS,26-35,18-25,Rajasthan,IndusInd,SBI,Android,4G,0,7,Monday,0
+TXN273,24-08-2024 16:27,P2M,Transport,238,SUCCESS,36-45,26-35,Gujarat,SBI,SBI,Android,4G,0,16,Saturday,1
+TXN274,14-08-2024 16:23,P2P,Healthcare,222,SUCCESS,18-25,46-55,Delhi,ICICI,IndusInd,Android,5G,0,16,Wednesday,0
+TXN275,15-06-2024 22:34,Recharge,Transport,133,SUCCESS,26-35,18-25,Delhi,Yes Bank,Axis,Android,4G,0,22,Saturday,1
+TXN276,09-07-2024 05:30,P2M,Food,273,SUCCESS,18-25,26-35,Tamil Nadu,ICICI,SBI,iOS,5G,0,5,Tuesday,0
+TXN277,15-04-2024 14:24,P2P,Food,295,SUCCESS,56+,26-35,Maharashtra,PNB,SBI,Android,4G,0,14,Monday,0
+TXN278,25-06-2024 12:05,P2P,Transport,151,SUCCESS,36-45,56+,Telangana,Yes Bank,SBI,iOS,5G,0,12,Tuesday,0
+TXN279,05-10-2024 22:53,P2P,Food,1185,SUCCESS,26-35,26-35,Uttar Pradesh,ICICI,HDFC,Android,4G,0,22,Saturday,1
+TXN280,07-04-2024 11:51,P2M,Education,4571,FAILED,46-55,46-55,Karnataka,HDFC,HDFC,iOS,5G,0,11,Sunday,1
+TXN281,25-10-2024 03:02,Bill Payment,Shopping,188,SUCCESS,18-25,26-35,Andhra Pradesh,PNB,SBI,Android,5G,0,3,Friday,0
+TXN282,15-03-2024 23:59,Bill Payment,Food,260,SUCCESS,18-25,26-35,Maharashtra,Axis,PNB,Android,4G,0,23,Friday,0
+TXN283,06-08-2024 15:54,P2M,Grocery,679,SUCCESS,18-25,36-45,Maharashtra,PNB,SBI,Android,4G,0,15,Tuesday,0
+TXN284,13-04-2024 19:56,P2P,Grocery,1241,SUCCESS,18-25,26-35,Gujarat,Yes Bank,Axis,Android,4G,0,19,Saturday,1
+TXN285,20-03-2024 18:36,P2P,Transport,93,SUCCESS,26-35,36-45,Telangana,IndusInd,HDFC,Android,4G,0,18,Wednesday,0
+TXN286,29-12-2024 14:06,Bill Payment,Utilities,1577,SUCCESS,26-35,46-55,Andhra Pradesh,IndusInd,IndusInd,Android,4G,0,14,Sunday,1
+TXN287,03-08-2024 08:37,P2M,Fuel,282,SUCCESS,18-25,36-45,Delhi,ICICI,HDFC,Android,4G,0,8,Saturday,1
+TXN288,04-11-2024 07:39,Bill Payment,Fuel,474,SUCCESS,36-45,26-35,Uttar Pradesh,Axis,PNB,Android,4G,0,7,Monday,0
+TXN289,05-06-2024 23:20,P2M,Shopping,5634,SUCCESS,26-35,26-35,Maharashtra,Axis,HDFC,Android,4G,0,23,Wednesday,0
+TXN290,24-11-2024 15:25,P2M,Entertainment,396,SUCCESS,36-45,18-25,Maharashtra,PNB,PNB,Android,4G,0,15,Sunday,1
+TXN291,03-02-2024 12:02,P2M,Other,669,SUCCESS,56+,46-55,Andhra Pradesh,SBI,SBI,iOS,4G,0,12,Saturday,1
+TXN292,02-11-2024 11:14,P2M,Shopping,1078,SUCCESS,18-25,36-45,Maharashtra,HDFC,IndusInd,Android,WiFi,0,11,Saturday,1
+TXN293,21-10-2024 18:43,P2M,Grocery,283,SUCCESS,36-45,36-45,Maharashtra,Yes Bank,PNB,iOS,5G,0,18,Monday,0
+TXN294,16-02-2024 21:03,P2M,Entertainment,351,SUCCESS,36-45,18-25,Uttar Pradesh,ICICI,ICICI,Android,4G,0,21,Friday,0
+TXN295,24-10-2024 20:32,P2P,Food,2155,SUCCESS,18-25,36-45,Tamil Nadu,ICICI,HDFC,Android,5G,0,20,Thursday,0
+TXN296,02-02-2024 16:50,P2P,Grocery,682,SUCCESS,36-45,18-25,Tamil Nadu,SBI,Yes Bank,Android,4G,0,16,Friday,0
+TXN297,13-01-2024 14:03,P2P,Food,166,SUCCESS,36-45,18-25,Andhra Pradesh,SBI,PNB,iOS,4G,0,14,Saturday,1
+TXN298,03-07-2024 22:20,P2P,Shopping,4046,SUCCESS,18-25,18-25,Gujarat,SBI,SBI,iOS,4G,0,22,Wednesday,0
+TXN299,18-09-2024 16:38,Recharge,Transport,865,SUCCESS,36-45,36-45,West Bengal,Kotak,ICICI,Android,4G,0,16,Wednesday,0
+TXN300,13-04-2024 23:31,P2P,Utilities,12568,SUCCESS,36-45,26-35,Tamil Nadu,Kotak,Axis,Android,4G,0,23,Saturday,1
+TXN301,17-01-2024 20:01,Bill Payment,Education,10309,SUCCESS,36-45,26-35,Andhra Pradesh,HDFC,ICICI,Android,4G,0,20,Wednesday,0
+TXN302,21-01-2024 12:13,Bill Payment,Fuel,5359,SUCCESS,18-25,36-45,Gujarat,ICICI,PNB,Android,4G,0,12,Sunday,1
+TXN303,16-04-2024 13:35,P2M,Fuel,1287,SUCCESS,26-35,18-25,Telangana,Axis,PNB,Android,5G,0,13,Tuesday,0
+TXN304,12-03-2024 20:30,P2M,Healthcare,2928,SUCCESS,36-45,18-25,West Bengal,SBI,ICICI,iOS,4G,0,20,Tuesday,0
+TXN305,07-05-2024 06:44,P2P,Transport,309,SUCCESS,36-45,18-25,Tamil Nadu,PNB,IndusInd,iOS,4G,0,6,Tuesday,0
+TXN306,09-09-2024 10:38,P2M,Grocery,167,SUCCESS,36-45,46-55,Uttar Pradesh,ICICI,Axis,iOS,4G,0,10,Monday,0
+TXN307,23-06-2024 19:22,P2P,Food,255,SUCCESS,36-45,18-25,Rajasthan,HDFC,PNB,iOS,4G,0,19,Sunday,1
+TXN308,09-03-2024 20:25,P2P,Utilities,2499,SUCCESS,26-35,46-55,Karnataka,SBI,PNB,Android,4G,0,20,Saturday,1
+TXN309,27-10-2024 00:03,P2M,Shopping,2775,SUCCESS,26-35,46-55,Gujarat,SBI,PNB,Android,WiFi,0,0,Sunday,1
+TXN310,28-02-2024 11:14,P2P,Grocery,140,SUCCESS,36-45,36-45,West Bengal,PNB,ICICI,Android,4G,0,11,Wednesday,0
+TXN311,24-08-2024 04:40,Bill Payment,Utilities,3255,SUCCESS,18-25,46-55,Tamil Nadu,PNB,Yes Bank,iOS,4G,0,4,Saturday,1
+TXN312,29-07-2024 18:44,Bill Payment,Fuel,935,SUCCESS,36-45,26-35,Karnataka,IndusInd,Axis,Android,5G,0,18,Monday,0
+TXN313,06-06-2024 20:07,P2P,Utilities,2428,SUCCESS,18-25,36-45,Uttar Pradesh,ICICI,SBI,Android,4G,0,20,Thursday,0
+TXN314,18-10-2024 09:36,P2P,Healthcare,333,SUCCESS,18-25,26-35,West Bengal,PNB,HDFC,Android,4G,0,9,Friday,0
+TXN315,13-10-2024 19:36,P2P,Grocery,1037,SUCCESS,36-45,26-35,Gujarat,Axis,ICICI,Android,4G,0,19,Sunday,1
+TXN316,24-06-2024 21:49,P2M,Other,221,SUCCESS,36-45,26-35,Gujarat,IndusInd,SBI,Android,4G,0,21,Monday,0
+TXN317,30-01-2024 13:44,P2M,Transport,409,SUCCESS,26-35,36-45,Andhra Pradesh,HDFC,PNB,Web,4G,0,13,Tuesday,0
+TXN318,14-07-2024 20:56,P2P,Fuel,1822,FAILED,36-45,26-35,Delhi,PNB,SBI,Android,4G,0,20,Sunday,1
+TXN319,19-01-2024 21:36,P2P,Food,86,SUCCESS,18-25,26-35,Andhra Pradesh,SBI,Axis,Android,4G,0,21,Friday,0
+TXN320,23-12-2024 21:26,Bill Payment,Utilities,3310,SUCCESS,56+,18-25,Uttar Pradesh,ICICI,Kotak,iOS,4G,0,21,Monday,0
+TXN321,31-05-2024 16:51,P2P,Grocery,2357,SUCCESS,26-35,18-25,Uttar Pradesh,Yes Bank,PNB,iOS,4G,0,16,Friday,0
+TXN322,21-05-2024 07:48,P2M,Entertainment,181,SUCCESS,18-25,18-25,Maharashtra,Kotak,PNB,iOS,5G,0,7,Tuesday,0
+TXN323,24-12-2024 19:01,P2P,Transport,62,SUCCESS,26-35,56+,Delhi,Kotak,PNB,Web,4G,0,19,Tuesday,0
+TXN324,07-05-2024 10:59,P2P,Shopping,2221,SUCCESS,36-45,36-45,Delhi,ICICI,SBI,iOS,4G,0,10,Tuesday,0
+TXN325,31-10-2024 16:02,P2M,Entertainment,139,SUCCESS,36-45,36-45,Maharashtra,HDFC,IndusInd,Android,4G,0,16,Thursday,0
+TXN326,06-03-2024 20:58,P2M,Transport,160,SUCCESS,36-45,26-35,Gujarat,Kotak,Axis,Android,4G,0,20,Wednesday,0
+TXN327,30-12-2024 14:58,P2P,Healthcare,1496,SUCCESS,36-45,36-45,Telangana,HDFC,ICICI,Android,4G,0,14,Monday,0
+TXN328,03-09-2024 21:58,P2M,Grocery,527,SUCCESS,46-55,26-35,Uttar Pradesh,PNB,ICICI,iOS,4G,0,21,Tuesday,0
+TXN329,10-02-2024 22:24,P2M,Entertainment,182,SUCCESS,46-55,18-25,Tamil Nadu,Axis,Yes Bank,Android,WiFi,0,22,Saturday,1
+TXN330,12-03-2024 21:36,P2M,Entertainment,436,SUCCESS,18-25,26-35,Gujarat,HDFC,HDFC,Android,4G,0,21,Tuesday,0
+TXN331,03-10-2024 17:36,P2P,Fuel,3287,SUCCESS,18-25,18-25,Andhra Pradesh,IndusInd,HDFC,Android,4G,0,17,Thursday,0
+TXN332,22-11-2024 22:49,P2M,Grocery,879,SUCCESS,18-25,26-35,West Bengal,PNB,SBI,iOS,4G,0,22,Friday,0
+TXN333,19-05-2024 09:28,P2P,Food,1445,SUCCESS,18-25,26-35,Gujarat,SBI,IndusInd,iOS,5G,0,9,Sunday,1
+TXN334,01-10-2024 22:47,P2M,Grocery,1946,SUCCESS,36-45,18-25,Tamil Nadu,SBI,HDFC,Android,4G,0,22,Tuesday,0
+TXN335,26-11-2024 12:22,P2M,Entertainment,167,SUCCESS,46-55,36-45,Tamil Nadu,HDFC,IndusInd,Android,3G,0,12,Tuesday,0
+TXN336,30-11-2024 23:17,P2P,Other,549,SUCCESS,26-35,46-55,Rajasthan,Kotak,SBI,Android,4G,0,23,Saturday,1
+TXN337,07-07-2024 19:05,P2P,Food,478,SUCCESS,26-35,18-25,Andhra Pradesh,Yes Bank,ICICI,Android,4G,0,19,Sunday,1
+TXN338,08-11-2024 17:45,Bill Payment,Grocery,2838,SUCCESS,26-35,18-25,Uttar Pradesh,Axis,SBI,Web,WiFi,0,17,Friday,0
+TXN339,18-03-2024 10:46,Bill Payment,Utilities,483,SUCCESS,26-35,18-25,West Bengal,Kotak,Axis,Android,5G,0,10,Monday,0
+TXN340,13-04-2024 15:56,P2M,Food,280,SUCCESS,18-25,36-45,Karnataka,HDFC,PNB,Android,4G,0,15,Saturday,1
+TXN341,28-06-2024 20:20,Bill Payment,Grocery,2640,SUCCESS,36-45,18-25,Maharashtra,HDFC,Axis,Android,4G,0,20,Friday,0
+TXN342,14-09-2024 14:59,Bill Payment,Food,92,SUCCESS,18-25,26-35,Rajasthan,ICICI,Yes Bank,Android,4G,0,14,Saturday,1
+TXN343,23-10-2024 20:14,Bill Payment,Shopping,497,SUCCESS,36-45,26-35,Delhi,Kotak,HDFC,iOS,5G,0,20,Wednesday,0
+TXN344,03-12-2024 18:47,Bill Payment,Other,1085,SUCCESS,26-35,36-45,Delhi,PNB,Yes Bank,Android,4G,0,18,Tuesday,0
+TXN345,19-11-2024 20:27,P2P,Utilities,3360,SUCCESS,36-45,46-55,Rajasthan,SBI,ICICI,Android,5G,0,20,Tuesday,0
+TXN346,26-12-2024 11:44,P2M,Grocery,646,SUCCESS,26-35,18-25,Maharashtra,ICICI,SBI,Web,4G,0,11,Thursday,0
+TXN347,09-08-2024 19:46,P2M,Food,631,SUCCESS,18-25,18-25,Uttar Pradesh,SBI,PNB,Android,WiFi,0,19,Friday,0
+TXN348,14-01-2024 17:39,P2M,Shopping,4554,SUCCESS,18-25,18-25,Rajasthan,SBI,PNB,Android,4G,0,17,Sunday,1
+TXN349,04-07-2024 12:53,P2M,Transport,953,SUCCESS,36-45,26-35,West Bengal,Kotak,SBI,Web,4G,0,12,Thursday,0
+TXN350,02-12-2024 14:29,P2P,Shopping,1191,SUCCESS,26-35,36-45,Gujarat,SBI,Yes Bank,Android,5G,0,14,Monday,0
+TXN351,22-03-2024 11:03,P2M,Grocery,317,SUCCESS,18-25,36-45,Karnataka,SBI,IndusInd,Android,4G,0,11,Friday,0
+TXN352,15-04-2024 08:04,P2M,Transport,571,SUCCESS,26-35,36-45,Tamil Nadu,Axis,SBI,Android,5G,0,8,Monday,0
+TXN353,30-06-2024 10:17,P2P,Food,1107,SUCCESS,46-55,36-45,Telangana,Kotak,Kotak,Android,5G,0,10,Sunday,1
+TXN354,08-05-2024 20:49,P2P,Entertainment,220,SUCCESS,26-35,26-35,Rajasthan,HDFC,SBI,Web,5G,0,20,Wednesday,0
+TXN355,22-06-2024 19:16,P2M,Healthcare,522,SUCCESS,56+,26-35,Andhra Pradesh,IndusInd,ICICI,Android,4G,0,19,Saturday,1
+TXN356,03-02-2024 22:14,P2P,Grocery,139,SUCCESS,26-35,36-45,Delhi,Axis,PNB,Android,4G,0,22,Saturday,1
+TXN357,27-02-2024 17:23,P2M,Grocery,158,SUCCESS,18-25,26-35,Karnataka,HDFC,ICICI,Android,4G,0,17,Tuesday,0
+TXN358,24-02-2024 14:01,P2P,Entertainment,92,SUCCESS,36-45,18-25,Andhra Pradesh,Axis,ICICI,Android,5G,0,14,Saturday,1
+TXN359,13-08-2024 21:51,P2M,Food,137,SUCCESS,26-35,46-55,Gujarat,SBI,IndusInd,Android,WiFi,0,21,Tuesday,0
+TXN360,26-07-2024 14:06,Recharge,Utilities,308,SUCCESS,26-35,18-25,Andhra Pradesh,SBI,SBI,Android,4G,0,14,Friday,0
+TXN361,28-08-2024 17:19,P2P,Transport,150,SUCCESS,56+,26-35,Karnataka,SBI,IndusInd,iOS,4G,0,17,Wednesday,0
+TXN362,18-07-2024 21:54,P2P,Transport,120,SUCCESS,26-35,46-55,Tamil Nadu,Yes Bank,SBI,Android,WiFi,0,21,Thursday,0
+TXN363,07-10-2024 11:13,Bill Payment,Transport,134,SUCCESS,46-55,26-35,Tamil Nadu,SBI,ICICI,Android,5G,0,11,Monday,0
+TXN364,18-01-2024 23:08,P2M,Fuel,2418,SUCCESS,26-35,36-45,Karnataka,ICICI,ICICI,iOS,5G,0,23,Thursday,0
+TXN365,22-01-2024 18:05,Recharge,Utilities,2766,FAILED,26-35,46-55,Rajasthan,Axis,HDFC,Android,4G,0,18,Monday,0
+TXN366,06-07-2024 15:49,P2M,Grocery,503,SUCCESS,36-45,56+,Maharashtra,SBI,SBI,Android,4G,0,15,Saturday,1
+TXN367,25-12-2024 20:04,Recharge,Fuel,2678,SUCCESS,26-35,26-35,Gujarat,SBI,ICICI,iOS,5G,0,20,Wednesday,0
+TXN368,07-02-2024 20:32,P2M,Utilities,121,SUCCESS,26-35,26-35,Andhra Pradesh,Kotak,Axis,Android,4G,0,20,Wednesday,0
+TXN369,20-11-2024 12:16,P2M,Fuel,516,SUCCESS,46-55,18-25,Uttar Pradesh,ICICI,Kotak,Android,WiFi,0,12,Wednesday,0
+TXN370,08-05-2024 20:07,P2P,Transport,92,SUCCESS,46-55,18-25,Karnataka,ICICI,IndusInd,Android,4G,0,20,Wednesday,0
+TXN371,19-10-2024 15:21,P2P,Healthcare,1845,SUCCESS,46-55,26-35,Tamil Nadu,IndusInd,IndusInd,Android,4G,0,15,Saturday,1
+TXN372,13-11-2024 21:21,P2P,Grocery,1630,SUCCESS,26-35,36-45,Rajasthan,ICICI,PNB,Android,4G,0,21,Wednesday,0
+TXN373,27-10-2024 17:46,P2P,Fuel,2588,SUCCESS,18-25,26-35,Maharashtra,HDFC,Yes Bank,iOS,4G,0,17,Sunday,1
+TXN374,08-03-2024 17:03,P2M,Grocery,2392,SUCCESS,18-25,26-35,Gujarat,SBI,Axis,Android,3G,0,17,Friday,0
+TXN375,10-12-2024 22:55,P2P,Transport,35,SUCCESS,18-25,26-35,Andhra Pradesh,HDFC,Axis,Android,3G,0,22,Tuesday,0
+TXN376,31-05-2024 08:03,P2P,Other,607,SUCCESS,18-25,26-35,Karnataka,HDFC,SBI,Android,4G,0,8,Friday,0
+TXN377,14-12-2024 19:46,Bill Payment,Other,202,SUCCESS,36-45,26-35,Maharashtra,IndusInd,HDFC,iOS,4G,0,19,Saturday,1
+TXN378,15-11-2024 10:05,P2M,Grocery,1685,SUCCESS,36-45,36-45,Karnataka,HDFC,IndusInd,Android,3G,0,10,Friday,0
+TXN379,07-02-2024 17:25,P2M,Shopping,4692,SUCCESS,26-35,46-55,Uttar Pradesh,HDFC,SBI,Web,5G,0,17,Wednesday,0
+TXN380,01-09-2024 19:12,P2P,Transport,667,SUCCESS,46-55,18-25,Rajasthan,SBI,SBI,Android,4G,0,19,Sunday,1
+TXN381,21-11-2024 17:36,P2P,Food,1016,SUCCESS,36-45,26-35,Karnataka,Yes Bank,SBI,Android,4G,0,17,Thursday,0
+TXN382,10-07-2024 22:00,P2M,Shopping,443,SUCCESS,18-25,36-45,Andhra Pradesh,SBI,Axis,Web,5G,0,22,Wednesday,0
+TXN383,11-11-2024 20:29,Recharge,Food,365,SUCCESS,36-45,36-45,Maharashtra,Yes Bank,HDFC,iOS,WiFi,0,20,Monday,0
+TXN384,14-09-2024 20:21,P2P,Other,1080,SUCCESS,46-55,36-45,Uttar Pradesh,Kotak,Axis,Web,4G,0,20,Saturday,1
+TXN385,20-03-2024 19:29,P2P,Other,484,SUCCESS,18-25,18-25,Tamil Nadu,HDFC,SBI,Android,5G,0,19,Wednesday,0
+TXN386,09-05-2024 21:19,P2P,Shopping,391,FAILED,26-35,18-25,Delhi,HDFC,IndusInd,iOS,WiFi,0,21,Thursday,0
+TXN387,25-07-2024 16:56,P2M,Fuel,4022,SUCCESS,36-45,18-25,Telangana,ICICI,IndusInd,iOS,5G,0,16,Thursday,0
+TXN388,31-03-2024 19:15,P2M,Fuel,1352,SUCCESS,26-35,36-45,Uttar Pradesh,HDFC,HDFC,Web,4G,0,19,Sunday,1
+TXN389,07-05-2024 14:25,P2P,Entertainment,573,SUCCESS,26-35,26-35,Rajasthan,IndusInd,Kotak,iOS,4G,0,14,Tuesday,0
+TXN390,20-05-2024 16:37,P2M,Shopping,1008,SUCCESS,36-45,18-25,Uttar Pradesh,SBI,ICICI,Android,4G,0,16,Monday,0
+TXN391,17-05-2024 17:05,P2P,Grocery,1957,SUCCESS,26-35,26-35,Maharashtra,Yes Bank,ICICI,Android,5G,0,17,Friday,0
+TXN392,21-01-2024 00:32,P2M,Entertainment,410,SUCCESS,26-35,18-25,Tamil Nadu,SBI,Yes Bank,Android,4G,0,0,Sunday,1
+TXN393,18-12-2024 19:38,P2P,Utilities,3267,FAILED,46-55,46-55,Tamil Nadu,HDFC,Yes Bank,Android,4G,0,19,Wednesday,0
+TXN394,26-09-2024 19:35,P2P,Food,1825,SUCCESS,26-35,36-45,Tamil Nadu,IndusInd,PNB,iOS,5G,0,19,Thursday,0
+TXN395,30-05-2024 16:34,P2M,Healthcare,258,SUCCESS,18-25,46-55,Gujarat,ICICI,Kotak,Android,WiFi,0,16,Thursday,0
+TXN396,24-05-2024 07:06,Bill Payment,Education,1461,SUCCESS,36-45,36-45,Maharashtra,Kotak,Axis,Android,4G,0,7,Friday,0
+TXN397,28-12-2024 17:19,P2P,Grocery,431,SUCCESS,56+,18-25,Uttar Pradesh,ICICI,Kotak,Android,4G,0,17,Saturday,1
+TXN398,12-01-2024 19:37,P2M,Utilities,326,SUCCESS,46-55,46-55,Telangana,ICICI,Axis,iOS,4G,0,19,Friday,0
+TXN399,08-06-2024 18:35,P2M,Other,479,SUCCESS,56+,18-25,Tamil Nadu,Axis,IndusInd,Android,4G,0,18,Saturday,1
+TXN400,28-07-2024 14:39,P2M,Shopping,2159,SUCCESS,18-25,18-25,Delhi,SBI,HDFC,Web,4G,0,14,Sunday,1
+TXN401,21-03-2024 09:03,Recharge,Fuel,960,SUCCESS,26-35,18-25,Tamil Nadu,ICICI,HDFC,Android,4G,0,9,Thursday,0
+TXN402,09-09-2024 18:31,Bill Payment,Fuel,587,SUCCESS,26-35,46-55,Delhi,HDFC,SBI,Android,4G,0,18,Monday,0
+TXN403,30-09-2024 16:46,P2P,Entertainment,179,SUCCESS,56+,26-35,Telangana,ICICI,ICICI,Android,5G,0,16,Monday,0
+TXN404,03-05-2024 18:59,P2M,Grocery,238,SUCCESS,18-25,56+,Maharashtra,Yes Bank,SBI,iOS,WiFi,0,18,Friday,0
+TXN405,02-01-2024 15:10,P2M,Shopping,6083,SUCCESS,26-35,18-25,Delhi,SBI,SBI,Android,4G,0,15,Tuesday,0
+TXN406,07-09-2024 22:53,Bill Payment,Shopping,1612,SUCCESS,36-45,26-35,Karnataka,SBI,ICICI,iOS,4G,0,22,Saturday,1
+TXN407,30-09-2024 16:53,P2P,Healthcare,459,SUCCESS,18-25,18-25,Gujarat,IndusInd,Axis,Android,4G,0,16,Monday,0
+TXN408,30-09-2024 15:07,P2P,Entertainment,369,SUCCESS,36-45,18-25,West Bengal,SBI,SBI,Android,5G,0,15,Monday,0
+TXN409,11-08-2024 13:29,P2P,Other,469,SUCCESS,26-35,46-55,Tamil Nadu,Kotak,Axis,Android,5G,0,13,Sunday,1
+TXN410,02-01-2024 21:25,P2P,Grocery,420,SUCCESS,36-45,26-35,Telangana,HDFC,Axis,Android,5G,0,21,Tuesday,0
+TXN411,13-04-2024 06:30,P2P,Healthcare,406,SUCCESS,36-45,46-55,Uttar Pradesh,HDFC,Axis,Android,4G,0,6,Saturday,1
+TXN412,23-02-2024 18:33,P2M,Other,358,SUCCESS,18-25,18-25,Delhi,Yes Bank,HDFC,Android,4G,0,18,Friday,0
+TXN413,14-10-2024 17:40,Bill Payment,Utilities,3508,SUCCESS,26-35,18-25,Andhra Pradesh,Yes Bank,HDFC,Android,3G,0,17,Monday,0
+TXN414,15-09-2024 10:03,P2M,Fuel,1869,SUCCESS,18-25,46-55,West Bengal,Axis,Axis,iOS,4G,0,10,Sunday,1
+TXN415,05-07-2024 18:32,P2M,Grocery,514,SUCCESS,26-35,36-45,Karnataka,Yes Bank,Kotak,Android,3G,0,18,Friday,0
+TXN416,08-08-2024 20:13,P2P,Utilities,1980,SUCCESS,26-35,26-35,Telangana,IndusInd,SBI,iOS,4G,0,20,Thursday,0
+TXN417,23-10-2024 20:12,Bill Payment,Grocery,320,SUCCESS,56+,36-45,Uttar Pradesh,Kotak,IndusInd,Android,WiFi,0,20,Wednesday,0
+TXN418,28-10-2024 20:40,P2P,Food,651,SUCCESS,26-35,26-35,Telangana,SBI,ICICI,Android,4G,0,20,Monday,0
+TXN419,07-11-2024 20:03,Bill Payment,Shopping,199,SUCCESS,18-25,36-45,Tamil Nadu,Axis,PNB,Android,5G,0,20,Thursday,0
+TXN420,29-08-2024 15:10,P2M,Utilities,3091,SUCCESS,46-55,36-45,Delhi,IndusInd,IndusInd,Android,4G,0,15,Thursday,0
+TXN421,11-07-2024 20:19,P2P,Shopping,165,SUCCESS,46-55,46-55,Delhi,Kotak,IndusInd,Android,WiFi,0,20,Thursday,0
+TXN422,08-09-2024 17:14,P2P,Grocery,250,SUCCESS,18-25,26-35,Maharashtra,Yes Bank,IndusInd,Android,4G,0,17,Sunday,1
+TXN423,24-04-2024 23:19,P2P,Transport,351,SUCCESS,36-45,46-55,Delhi,HDFC,HDFC,Android,4G,0,23,Wednesday,0
+TXN424,11-12-2024 21:48,P2P,Shopping,1862,SUCCESS,36-45,46-55,Maharashtra,Kotak,HDFC,Android,4G,0,21,Wednesday,0
+TXN425,03-09-2024 14:57,P2M,Food,1332,SUCCESS,26-35,36-45,Karnataka,HDFC,ICICI,Android,5G,0,14,Tuesday,0
+TXN426,02-01-2024 19:51,P2P,Shopping,932,FAILED,36-45,18-25,Andhra Pradesh,IndusInd,HDFC,Web,5G,0,19,Tuesday,0
+TXN427,28-06-2024 18:14,P2P,Utilities,3014,SUCCESS,26-35,26-35,Rajasthan,SBI,HDFC,Android,4G,0,18,Friday,0
+TXN428,19-03-2024 18:50,P2M,Grocery,301,SUCCESS,56+,18-25,Maharashtra,HDFC,HDFC,Android,4G,0,18,Tuesday,0
+TXN429,18-10-2024 01:02,P2P,Healthcare,368,SUCCESS,46-55,36-45,Maharashtra,HDFC,Yes Bank,iOS,5G,0,1,Friday,0
+TXN430,22-03-2024 05:15,P2M,Other,757,SUCCESS,26-35,26-35,Maharashtra,HDFC,SBI,Android,4G,0,5,Friday,0
+TXN431,05-12-2024 12:17,P2M,Food,241,SUCCESS,18-25,36-45,Maharashtra,HDFC,ICICI,Android,4G,0,12,Thursday,0
+TXN432,27-10-2024 13:16,P2M,Food,83,SUCCESS,26-35,36-45,Telangana,ICICI,HDFC,Android,4G,0,13,Sunday,1
+TXN433,02-11-2024 15:11,P2M,Other,197,SUCCESS,18-25,26-35,Maharashtra,SBI,SBI,Android,4G,0,15,Saturday,1
+TXN434,29-11-2024 19:02,P2M,Entertainment,378,SUCCESS,36-45,18-25,Maharashtra,SBI,SBI,Android,4G,0,19,Friday,0
+TXN435,14-04-2024 15:43,Bill Payment,Other,634,FAILED,26-35,18-25,Tamil Nadu,ICICI,SBI,iOS,WiFi,0,15,Sunday,1
+TXN436,25-05-2024 21:34,P2P,Other,604,SUCCESS,26-35,46-55,Rajasthan,ICICI,SBI,Android,5G,0,21,Saturday,1
+TXN437,12-06-2024 21:21,Bill Payment,Food,738,SUCCESS,36-45,26-35,Rajasthan,ICICI,ICICI,Android,5G,0,21,Wednesday,0
+TXN438,09-06-2024 21:35,P2P,Grocery,1898,SUCCESS,26-35,26-35,Delhi,HDFC,IndusInd,iOS,WiFi,0,21,Sunday,1
+TXN439,17-11-2024 22:50,P2M,Shopping,213,SUCCESS,36-45,36-45,Karnataka,SBI,SBI,Android,4G,0,22,Sunday,1
+TXN440,24-02-2024 19:52,P2P,Healthcare,122,SUCCESS,18-25,46-55,West Bengal,IndusInd,Yes Bank,Android,4G,0,19,Saturday,1
+TXN441,28-09-2024 12:30,P2M,Healthcare,160,SUCCESS,18-25,56+,Uttar Pradesh,SBI,IndusInd,Android,4G,0,12,Saturday,1
+TXN442,07-03-2024 19:16,P2P,Shopping,1575,SUCCESS,26-35,36-45,Maharashtra,Axis,SBI,iOS,4G,0,19,Thursday,0
+TXN443,28-03-2024 08:35,P2M,Utilities,15583,SUCCESS,26-35,18-25,Telangana,HDFC,ICICI,Android,5G,0,8,Thursday,0
+TXN444,13-04-2024 09:59,P2P,Shopping,2950,SUCCESS,46-55,36-45,Telangana,SBI,HDFC,Android,4G,0,9,Saturday,1
+TXN445,05-08-2024 18:11,Recharge,Shopping,135,SUCCESS,36-45,36-45,Karnataka,SBI,SBI,Android,4G,0,18,Monday,0
+TXN446,04-10-2024 13:06,Bill Payment,Shopping,367,SUCCESS,18-25,36-45,Uttar Pradesh,IndusInd,SBI,Android,4G,0,13,Friday,0
+TXN447,24-10-2024 18:48,P2M,Shopping,1788,SUCCESS,46-55,18-25,Delhi,HDFC,Kotak,iOS,4G,0,18,Thursday,0
+TXN448,22-04-2024 18:11,Bill Payment,Grocery,137,SUCCESS,36-45,26-35,West Bengal,SBI,Yes Bank,Android,5G,0,18,Monday,0
+TXN449,10-06-2024 16:32,P2P,Fuel,1260,SUCCESS,26-35,26-35,Delhi,HDFC,HDFC,iOS,5G,0,16,Monday,0
+TXN450,21-05-2024 19:45,P2P,Fuel,837,SUCCESS,26-35,18-25,Gujarat,ICICI,SBI,Web,4G,0,19,Tuesday,0
+TXN451,04-01-2024 07:18,P2P,Education,1051,SUCCESS,18-25,36-45,Delhi,ICICI,SBI,Android,4G,0,7,Thursday,0
+TXN452,03-10-2024 10:31,P2M,Entertainment,322,FAILED,18-25,26-35,Maharashtra,SBI,SBI,iOS,5G,0,10,Thursday,0
+TXN453,31-10-2024 17:57,Bill Payment,Grocery,476,SUCCESS,26-35,46-55,Telangana,Axis,Axis,Android,4G,0,17,Thursday,0
+TXN454,19-02-2024 20:13,Recharge,Entertainment,588,SUCCESS,56+,18-25,Gujarat,SBI,PNB,Android,4G,0,20,Monday,0
+TXN455,27-10-2024 09:40,P2M,Healthcare,383,SUCCESS,46-55,36-45,Telangana,PNB,SBI,iOS,5G,0,9,Sunday,1
+TXN456,23-06-2024 19:11,P2M,Food,100,SUCCESS,46-55,26-35,Telangana,IndusInd,HDFC,Android,4G,0,19,Sunday,1
+TXN457,31-05-2024 10:06,Bill Payment,Fuel,3218,SUCCESS,26-35,46-55,Telangana,Axis,Kotak,Android,3G,0,10,Friday,0
+TXN458,05-09-2024 19:36,P2P,Grocery,1363,SUCCESS,36-45,18-25,West Bengal,Axis,IndusInd,Android,WiFi,0,19,Thursday,0
+TXN459,19-02-2024 15:37,P2P,Transport,271,SUCCESS,36-45,26-35,Uttar Pradesh,ICICI,PNB,Android,WiFi,0,15,Monday,0
+TXN460,03-01-2024 12:07,P2P,Grocery,747,SUCCESS,26-35,18-25,Maharashtra,ICICI,ICICI,Android,WiFi,0,12,Wednesday,0
+TXN461,26-08-2024 17:42,P2P,Grocery,2734,SUCCESS,26-35,26-35,Uttar Pradesh,Kotak,HDFC,Android,4G,0,17,Monday,0
+TXN462,15-10-2024 20:18,Bill Payment,Utilities,3603,FAILED,18-25,46-55,Delhi,Kotak,PNB,Android,5G,0,20,Tuesday,0
+TXN463,27-12-2024 20:35,P2P,Transport,34,SUCCESS,56+,56+,West Bengal,HDFC,ICICI,Android,4G,0,20,Friday,0
+TXN464,23-07-2024 18:35,P2P,Food,1559,SUCCESS,26-35,26-35,Tamil Nadu,SBI,PNB,Android,3G,0,18,Tuesday,0
+TXN465,01-10-2024 20:39,Bill Payment,Utilities,372,SUCCESS,46-55,46-55,Andhra Pradesh,IndusInd,IndusInd,Android,5G,0,20,Tuesday,0
+TXN466,01-09-2024 14:16,P2P,Shopping,498,SUCCESS,36-45,46-55,Rajasthan,SBI,Kotak,Android,4G,0,14,Sunday,1
+TXN467,26-07-2024 23:51,Recharge,Entertainment,127,SUCCESS,46-55,26-35,Uttar Pradesh,Axis,ICICI,Android,4G,0,23,Friday,0
+TXN468,12-08-2024 20:17,P2P,Other,452,SUCCESS,26-35,46-55,Maharashtra,Axis,Kotak,Android,4G,0,20,Monday,0
+TXN469,21-07-2024 17:50,P2M,Shopping,2709,SUCCESS,26-35,26-35,Tamil Nadu,HDFC,Axis,Android,4G,0,17,Sunday,1
+TXN470,11-04-2024 21:21,P2P,Grocery,198,SUCCESS,36-45,18-25,Delhi,SBI,Yes Bank,Android,4G,0,21,Thursday,0
+TXN471,16-10-2024 18:35,Bill Payment,Grocery,1248,SUCCESS,26-35,18-25,Tamil Nadu,IndusInd,SBI,Android,4G,0,18,Wednesday,0
+TXN472,30-03-2024 23:10,P2P,Other,756,SUCCESS,46-55,36-45,Telangana,Kotak,IndusInd,Android,4G,0,23,Saturday,1
+TXN473,03-10-2024 18:23,P2P,Other,227,SUCCESS,18-25,36-45,Telangana,PNB,Yes Bank,Android,4G,0,18,Thursday,0
+TXN474,27-11-2024 07:55,P2M,Utilities,3388,SUCCESS,36-45,26-35,Andhra Pradesh,IndusInd,IndusInd,Android,5G,0,7,Wednesday,0
+TXN475,07-09-2024 17:13,Bill Payment,Grocery,2018,SUCCESS,26-35,18-25,West Bengal,SBI,SBI,Web,4G,0,17,Saturday,1
+TXN476,22-03-2024 18:43,P2P,Food,1205,SUCCESS,46-55,36-45,Gujarat,ICICI,Yes Bank,Android,4G,0,18,Friday,0
+TXN477,20-09-2024 21:57,P2M,Food,572,SUCCESS,18-25,18-25,Karnataka,Kotak,PNB,Android,4G,0,21,Friday,0
+TXN478,01-09-2024 12:02,Bill Payment,Shopping,800,FAILED,18-25,26-35,Uttar Pradesh,PNB,Axis,Android,4G,0,12,Sunday,1
+TXN479,09-04-2024 22:34,P2P,Shopping,881,FAILED,26-35,36-45,Maharashtra,SBI,HDFC,Android,5G,0,22,Tuesday,0
+TXN480,19-02-2024 18:44,P2M,Grocery,1537,SUCCESS,18-25,46-55,Maharashtra,IndusInd,SBI,Android,4G,0,18,Monday,0
+TXN481,05-02-2024 13:03,P2P,Other,1791,SUCCESS,18-25,46-55,Maharashtra,SBI,Yes Bank,Android,WiFi,0,13,Monday,0
+TXN482,01-01-2024 03:45,Bill Payment,Shopping,1122,SUCCESS,26-35,36-45,Maharashtra,Yes Bank,HDFC,Android,5G,0,3,Monday,0
+TXN483,04-06-2024 19:38,P2M,Other,753,SUCCESS,18-25,18-25,Andhra Pradesh,IndusInd,Axis,iOS,4G,0,19,Tuesday,0
+TXN484,21-06-2024 13:19,P2M,Transport,78,SUCCESS,18-25,36-45,Uttar Pradesh,IndusInd,SBI,Android,WiFi,0,13,Friday,0
+TXN485,08-10-2024 18:12,P2M,Shopping,308,SUCCESS,26-35,18-25,Delhi,Yes Bank,ICICI,Android,4G,0,18,Tuesday,0
+TXN486,01-12-2024 18:19,P2M,Shopping,1288,SUCCESS,26-35,18-25,West Bengal,SBI,PNB,Android,WiFi,0,18,Sunday,1
+TXN487,14-06-2024 17:19,P2P,Entertainment,500,SUCCESS,18-25,26-35,Rajasthan,ICICI,HDFC,Android,5G,0,17,Friday,0
+TXN488,26-12-2024 12:33,P2P,Transport,124,SUCCESS,26-35,46-55,Delhi,SBI,Axis,Android,4G,0,12,Thursday,0
+TXN489,25-03-2024 20:15,P2M,Grocery,244,SUCCESS,26-35,26-35,Maharashtra,SBI,SBI,iOS,5G,0,20,Monday,0
+TXN490,07-03-2024 08:50,P2P,Other,822,SUCCESS,18-25,26-35,Karnataka,IndusInd,HDFC,iOS,4G,0,8,Thursday,0
+TXN491,18-10-2024 15:11,P2M,Food,585,SUCCESS,26-35,26-35,Uttar Pradesh,HDFC,SBI,iOS,4G,0,15,Friday,0
+TXN492,13-03-2024 07:00,Bill Payment,Utilities,1605,SUCCESS,18-25,26-35,Karnataka,Axis,SBI,Android,5G,0,7,Wednesday,0
+TXN493,09-11-2024 12:45,P2P,Entertainment,247,SUCCESS,18-25,26-35,Karnataka,Axis,PNB,iOS,5G,0,12,Saturday,1
+TXN494,30-06-2024 19:33,P2P,Entertainment,893,SUCCESS,36-45,36-45,Maharashtra,PNB,ICICI,Android,4G,0,19,Sunday,1
+TXN495,13-08-2024 21:14,P2P,Food,234,SUCCESS,26-35,36-45,Tamil Nadu,HDFC,SBI,Android,4G,0,21,Tuesday,0
+TXN496,06-02-2024 14:12,Bill Payment,Other,734,SUCCESS,26-35,26-35,Tamil Nadu,SBI,SBI,Android,5G,0,14,Tuesday,0
+TXN497,21-09-2024 09:07,Bill Payment,Other,1910,FAILED,18-25,18-25,Gujarat,HDFC,HDFC,Android,4G,0,9,Saturday,1
+TXN498,01-05-2024 10:03,Bill Payment,Grocery,2462,SUCCESS,36-45,26-35,Maharashtra,Yes Bank,Yes Bank,Android,4G,0,10,Wednesday,0
+TXN499,29-07-2024 10:02,Bill Payment,Shopping,1131,SUCCESS,26-35,26-35,Maharashtra,HDFC,HDFC,Android,4G,0,10,Monday,0
+TXN500,19-08-2024 11:11,P2P,Utilities,1518,SUCCESS,26-35,18-25,Andhra Pradesh,PNB,Kotak,Android,4G,0,11,Monday,0
+TXN501,13-12-2024 07:57,P2P,Healthcare,334,SUCCESS,26-35,36-45,West Bengal,PNB,SBI,Android,4G,0,7,Friday,0
+TXN502,21-12-2024 15:03,P2P,Entertainment,283,SUCCESS,26-35,36-45,Maharashtra,Kotak,HDFC,Android,4G,0,15,Saturday,1
+TXN503,31-01-2024 13:50,P2P,Food,388,SUCCESS,36-45,18-25,Karnataka,Kotak,Yes Bank,Android,WiFi,0,13,Wednesday,0
+TXN504,30-05-2024 18:00,P2P,Other,554,FAILED,18-25,36-45,Karnataka,SBI,Kotak,Android,4G,0,18,Thursday,0
+TXN505,23-09-2024 15:13,P2M,Food,103,SUCCESS,36-45,36-45,Rajasthan,HDFC,Yes Bank,Android,5G,0,15,Monday,0
+TXN506,13-07-2024 09:45,P2P,Food,133,SUCCESS,18-25,26-35,Delhi,IndusInd,HDFC,Android,4G,0,9,Saturday,1
+TXN507,09-01-2024 05:40,Bill Payment,Other,286,SUCCESS,36-45,18-25,Andhra Pradesh,SBI,ICICI,Android,WiFi,0,5,Tuesday,0
+TXN508,09-10-2024 20:37,P2P,Entertainment,218,SUCCESS,26-35,18-25,Maharashtra,Axis,HDFC,iOS,WiFi,0,20,Wednesday,0
+TXN509,28-10-2024 21:14,P2M,Food,119,SUCCESS,26-35,36-45,Maharashtra,Yes Bank,HDFC,Android,5G,0,21,Monday,0
+TXN510,27-10-2024 16:01,P2P,Transport,189,SUCCESS,18-25,56+,Rajasthan,HDFC,IndusInd,Android,5G,0,16,Sunday,1
+TXN511,11-01-2024 21:58,P2M,Entertainment,661,SUCCESS,36-45,18-25,Tamil Nadu,HDFC,PNB,Android,5G,0,21,Thursday,0
+TXN512,02-09-2024 19:06,P2P,Grocery,222,SUCCESS,36-45,56+,Maharashtra,PNB,SBI,Android,WiFi,0,19,Monday,0
+TXN513,13-09-2024 09:39,P2P,Grocery,1064,SUCCESS,18-25,36-45,Tamil Nadu,ICICI,Axis,Android,4G,0,9,Friday,0
+TXN514,02-01-2024 18:12,P2P,Food,476,SUCCESS,56+,18-25,Telangana,IndusInd,SBI,iOS,4G,0,18,Tuesday,0
+TXN515,28-06-2024 11:22,P2M,Fuel,4976,SUCCESS,46-55,36-45,Tamil Nadu,Kotak,SBI,Android,4G,0,11,Friday,0
+TXN516,30-08-2024 09:35,P2M,Fuel,4305,SUCCESS,26-35,18-25,Telangana,HDFC,Axis,Android,4G,0,9,Friday,0
+TXN517,08-02-2024 13:43,P2M,Food,497,SUCCESS,18-25,18-25,Maharashtra,Yes Bank,IndusInd,iOS,4G,0,13,Thursday,0
+TXN518,20-03-2024 11:10,P2P,Food,265,SUCCESS,36-45,36-45,West Bengal,HDFC,SBI,iOS,5G,0,11,Wednesday,0
+TXN519,12-09-2024 02:30,P2M,Entertainment,1715,SUCCESS,26-35,26-35,Telangana,SBI,HDFC,iOS,5G,0,2,Thursday,0
+TXN520,16-06-2024 08:16,Recharge,Shopping,166,SUCCESS,26-35,26-35,Uttar Pradesh,SBI,PNB,Android,4G,0,8,Sunday,1
+TXN521,21-05-2024 18:45,Bill Payment,Other,432,SUCCESS,26-35,46-55,Karnataka,HDFC,PNB,Android,WiFi,0,18,Tuesday,0
+TXN522,12-02-2024 06:59,P2M,Shopping,9541,SUCCESS,18-25,36-45,Tamil Nadu,IndusInd,Axis,Android,4G,0,6,Monday,0
+TXN523,10-05-2024 13:25,Recharge,Grocery,1086,SUCCESS,56+,18-25,Delhi,ICICI,SBI,Android,5G,0,13,Friday,0
+TXN524,29-03-2024 18:04,Bill Payment,Fuel,473,SUCCESS,26-35,18-25,Rajasthan,Yes Bank,IndusInd,iOS,4G,0,18,Friday,0
+TXN525,26-01-2024 22:25,P2M,Shopping,646,SUCCESS,36-45,36-45,Delhi,SBI,SBI,Android,4G,0,22,Friday,0
+TXN526,16-08-2024 01:17,P2P,Utilities,2243,SUCCESS,18-25,18-25,Rajasthan,PNB,Axis,Android,4G,0,1,Friday,0
+TXN527,11-09-2024 10:40,P2P,Entertainment,123,SUCCESS,36-45,26-35,Uttar Pradesh,SBI,Yes Bank,Android,5G,0,10,Wednesday,0
+TXN528,19-05-2024 16:32,P2P,Healthcare,966,SUCCESS,56+,18-25,Maharashtra,IndusInd,PNB,Android,4G,0,16,Sunday,1
+TXN529,15-08-2024 03:12,P2M,Education,3795,SUCCESS,46-55,26-35,Rajasthan,SBI,Axis,Android,5G,0,3,Thursday,0
+TXN530,15-09-2024 23:27,P2P,Utilities,3474,SUCCESS,18-25,26-35,Delhi,Axis,Axis,Android,5G,0,23,Sunday,1
+TXN531,14-01-2024 19:41,Recharge,Shopping,6859,SUCCESS,26-35,26-35,West Bengal,HDFC,Kotak,Android,4G,0,19,Sunday,1
+TXN532,19-08-2024 16:33,P2P,Grocery,248,SUCCESS,26-35,26-35,Karnataka,PNB,Kotak,Android,4G,0,16,Monday,0
+TXN533,10-12-2024 12:35,Recharge,Transport,73,SUCCESS,18-25,46-55,Tamil Nadu,HDFC,ICICI,Web,4G,0,12,Tuesday,0
+TXN534,25-10-2024 15:55,P2M,Grocery,909,FAILED,26-35,36-45,Maharashtra,PNB,IndusInd,Android,4G,0,15,Friday,0
+TXN535,23-08-2024 11:58,Bill Payment,Grocery,375,SUCCESS,46-55,18-25,West Bengal,IndusInd,Axis,iOS,4G,0,11,Friday,0
+TXN536,02-01-2024 22:04,P2M,Utilities,293,SUCCESS,36-45,56+,Delhi,SBI,SBI,iOS,4G,0,22,Tuesday,0
+TXN537,12-04-2024 10:32,P2M,Other,444,SUCCESS,26-35,56+,Karnataka,PNB,IndusInd,Android,5G,0,10,Friday,0
+TXN538,22-08-2024 22:38,P2M,Fuel,2065,SUCCESS,18-25,26-35,Uttar Pradesh,ICICI,Yes Bank,Android,5G,0,22,Thursday,0
+TXN539,08-02-2024 15:31,P2P,Utilities,4001,SUCCESS,26-35,46-55,Tamil Nadu,IndusInd,IndusInd,Android,4G,0,15,Thursday,0
+TXN540,17-12-2024 14:41,P2P,Shopping,631,SUCCESS,18-25,36-45,Uttar Pradesh,Kotak,PNB,Android,3G,0,14,Tuesday,0
+TXN541,20-01-2024 14:25,P2M,Transport,337,SUCCESS,56+,26-35,Karnataka,SBI,IndusInd,Android,5G,0,14,Saturday,1
+TXN542,22-11-2024 06:54,P2M,Entertainment,725,SUCCESS,46-55,18-25,Andhra Pradesh,Yes Bank,Yes Bank,iOS,4G,0,6,Friday,0
+TXN543,02-04-2024 17:13,P2M,Shopping,811,SUCCESS,36-45,26-35,Rajasthan,HDFC,ICICI,Android,4G,0,17,Tuesday,0
+TXN544,04-09-2024 14:39,P2M,Fuel,3673,SUCCESS,18-25,18-25,Maharashtra,Yes Bank,ICICI,Android,4G,0,14,Wednesday,0
+TXN545,24-06-2024 16:21,P2P,Other,376,SUCCESS,36-45,56+,Rajasthan,SBI,Yes Bank,Android,WiFi,0,16,Monday,0
+TXN546,24-02-2024 18:55,P2P,Food,453,SUCCESS,26-35,26-35,West Bengal,IndusInd,Kotak,Android,WiFi,0,18,Saturday,1
+TXN547,29-03-2024 18:31,P2M,Shopping,5220,SUCCESS,18-25,36-45,West Bengal,SBI,Kotak,Android,5G,0,18,Friday,0
+TXN548,14-12-2024 09:45,P2P,Grocery,316,FAILED,18-25,36-45,Maharashtra,SBI,ICICI,iOS,5G,0,9,Saturday,1
+TXN549,06-08-2024 17:35,Recharge,Entertainment,705,SUCCESS,36-45,26-35,Uttar Pradesh,SBI,ICICI,Android,4G,0,17,Tuesday,0
+TXN550,30-12-2024 20:38,P2P,Food,378,SUCCESS,26-35,36-45,Uttar Pradesh,ICICI,ICICI,Android,4G,0,20,Monday,0
+TXN551,12-11-2024 17:59,P2P,Fuel,2170,SUCCESS,18-25,46-55,Andhra Pradesh,HDFC,HDFC,Android,4G,0,17,Tuesday,0
+TXN552,20-12-2024 20:56,P2M,Food,496,SUCCESS,36-45,56+,Delhi,SBI,HDFC,Android,5G,0,20,Friday,0
+TXN553,10-06-2024 18:03,P2M,Shopping,8360,SUCCESS,18-25,26-35,Telangana,HDFC,IndusInd,Android,4G,0,18,Monday,0
+TXN554,20-10-2024 18:51,P2M,Food,228,SUCCESS,36-45,18-25,Delhi,Yes Bank,PNB,Android,4G,0,18,Sunday,1
+TXN555,01-02-2024 20:45,P2P,Grocery,465,SUCCESS,36-45,56+,Rajasthan,Yes Bank,ICICI,Android,WiFi,0,20,Thursday,0
+TXN556,23-04-2024 13:40,P2P,Utilities,4885,SUCCESS,18-25,18-25,Tamil Nadu,SBI,Yes Bank,iOS,5G,0,13,Tuesday,0
+TXN557,30-03-2024 20:52,P2M,Fuel,564,SUCCESS,26-35,18-25,Karnataka,IndusInd,SBI,Android,WiFi,0,20,Saturday,1
+TXN558,28-01-2024 21:23,P2M,Shopping,3336,SUCCESS,36-45,56+,Maharashtra,HDFC,IndusInd,Android,WiFi,0,21,Sunday,1
+TXN559,18-12-2024 16:11,P2M,Utilities,2020,SUCCESS,18-25,36-45,Rajasthan,IndusInd,PNB,Android,4G,0,16,Wednesday,0
+TXN560,16-07-2024 19:42,P2P,Grocery,231,SUCCESS,18-25,26-35,Karnataka,SBI,Kotak,iOS,4G,0,19,Tuesday,0
+TXN561,15-10-2024 21:51,P2P,Shopping,1043,SUCCESS,36-45,18-25,Andhra Pradesh,SBI,ICICI,Android,4G,0,21,Tuesday,0
+TXN562,03-01-2024 12:48,P2M,Utilities,3858,SUCCESS,18-25,26-35,Telangana,Yes Bank,SBI,Android,4G,0,12,Wednesday,0
+TXN563,02-08-2024 12:47,Bill Payment,Shopping,1519,SUCCESS,36-45,26-35,Rajasthan,SBI,Kotak,iOS,4G,0,12,Friday,0
+TXN564,06-10-2024 22:23,P2P,Grocery,502,SUCCESS,18-25,26-35,Delhi,Axis,SBI,Android,4G,0,22,Sunday,1
+TXN565,29-12-2024 22:21,P2M,Shopping,3927,SUCCESS,18-25,18-25,Karnataka,HDFC,Axis,Android,4G,0,22,Sunday,1
+TXN566,24-08-2024 09:05,P2M,Grocery,3803,SUCCESS,36-45,36-45,Andhra Pradesh,Yes Bank,PNB,iOS,3G,0,9,Saturday,1
+TXN567,07-10-2024 04:53,P2P,Grocery,2533,SUCCESS,56+,36-45,Rajasthan,Yes Bank,Kotak,Android,3G,0,4,Monday,0
+TXN568,01-03-2024 19:06,Bill Payment,Utilities,6857,SUCCESS,26-35,36-45,West Bengal,Axis,Kotak,Android,4G,0,19,Friday,0
+TXN569,07-08-2024 15:10,P2M,Utilities,645,SUCCESS,26-35,18-25,Tamil Nadu,HDFC,PNB,Web,4G,0,15,Wednesday,0
+TXN570,28-05-2024 09:51,P2P,Shopping,4394,SUCCESS,36-45,18-25,Karnataka,SBI,HDFC,Android,4G,0,9,Tuesday,0
+TXN571,01-03-2024 20:59,P2M,Grocery,93,SUCCESS,18-25,18-25,Uttar Pradesh,IndusInd,Axis,Android,4G,0,20,Friday,0
+TXN572,17-03-2024 18:28,Bill Payment,Transport,191,SUCCESS,26-35,26-35,Uttar Pradesh,ICICI,PNB,Android,4G,0,18,Sunday,1
+TXN573,26-06-2024 11:38,Bill Payment,Food,668,SUCCESS,18-25,36-45,West Bengal,IndusInd,Kotak,iOS,4G,0,11,Wednesday,0
+TXN574,10-11-2024 12:45,P2M,Entertainment,88,SUCCESS,46-55,18-25,Andhra Pradesh,SBI,IndusInd,Android,4G,0,12,Sunday,1
+TXN575,29-04-2024 16:01,P2M,Shopping,1371,SUCCESS,26-35,18-25,West Bengal,SBI,SBI,Android,4G,0,16,Monday,0
+TXN576,05-09-2024 14:59,P2M,Healthcare,214,SUCCESS,18-25,26-35,Rajasthan,SBI,SBI,Android,4G,0,14,Thursday,0
+TXN577,29-07-2024 10:55,P2P,Shopping,776,SUCCESS,56+,26-35,Uttar Pradesh,ICICI,PNB,Android,5G,0,10,Monday,0
+TXN578,04-04-2024 13:43,P2M,Utilities,3101,SUCCESS,36-45,36-45,Telangana,SBI,SBI,Android,4G,0,13,Thursday,0
+TXN579,29-04-2024 21:19,P2M,Transport,655,SUCCESS,26-35,18-25,Tamil Nadu,SBI,IndusInd,iOS,4G,0,21,Monday,0
+TXN580,21-07-2024 13:00,P2P,Utilities,2332,SUCCESS,36-45,18-25,Maharashtra,Axis,ICICI,Android,4G,0,13,Sunday,1
+TXN581,18-08-2024 14:20,Bill Payment,Grocery,1287,SUCCESS,26-35,26-35,Maharashtra,SBI,SBI,Web,4G,0,14,Sunday,1
+TXN582,25-10-2024 21:53,P2P,Shopping,869,SUCCESS,26-35,26-35,Uttar Pradesh,Axis,Kotak,iOS,5G,0,21,Friday,0
+TXN583,26-11-2024 21:06,P2M,Utilities,325,SUCCESS,18-25,36-45,West Bengal,Kotak,SBI,iOS,4G,0,21,Tuesday,0
+TXN584,02-11-2024 07:39,P2P,Fuel,653,SUCCESS,36-45,26-35,Delhi,ICICI,IndusInd,Web,5G,0,7,Saturday,1
+TXN585,15-09-2024 08:12,P2M,Shopping,5196,SUCCESS,36-45,26-35,Maharashtra,PNB,SBI,iOS,WiFi,0,8,Sunday,1
+TXN586,04-10-2024 19:37,P2P,Entertainment,766,SUCCESS,26-35,36-45,Andhra Pradesh,HDFC,Kotak,Android,4G,0,19,Friday,0
+TXN587,04-12-2024 17:24,Bill Payment,Grocery,1006,SUCCESS,18-25,18-25,West Bengal,SBI,HDFC,Android,4G,0,17,Wednesday,0
+TXN588,13-11-2024 19:13,P2P,Transport,126,FAILED,26-35,26-35,Rajasthan,HDFC,PNB,Android,5G,0,19,Wednesday,0
+TXN589,13-12-2024 17:38,P2P,Grocery,1944,SUCCESS,36-45,26-35,Gujarat,Axis,PNB,Android,5G,0,17,Friday,0
+TXN590,03-09-2024 14:50,P2M,Grocery,1623,SUCCESS,18-25,18-25,Gujarat,Yes Bank,Axis,Android,4G,0,14,Tuesday,0
+TXN591,20-05-2024 23:23,P2P,Food,113,SUCCESS,26-35,26-35,Delhi,IndusInd,ICICI,Android,4G,0,23,Monday,0
+TXN592,04-07-2024 12:45,P2M,Grocery,914,SUCCESS,36-45,36-45,Rajasthan,PNB,Kotak,Android,5G,0,12,Thursday,0
+TXN593,27-08-2024 12:30,P2M,Utilities,629,SUCCESS,18-25,18-25,Tamil Nadu,IndusInd,HDFC,Android,4G,0,12,Tuesday,0
+TXN594,13-03-2024 12:57,P2P,Other,646,SUCCESS,46-55,18-25,Delhi,ICICI,SBI,iOS,5G,0,12,Wednesday,0
+TXN595,27-01-2024 16:26,P2P,Shopping,679,SUCCESS,26-35,36-45,Gujarat,Kotak,ICICI,iOS,4G,0,16,Saturday,1
+TXN596,03-11-2024 18:06,P2P,Food,460,SUCCESS,26-35,36-45,Maharashtra,Axis,ICICI,Android,3G,0,18,Sunday,1
+TXN597,12-01-2024 21:52,P2P,Utilities,2673,SUCCESS,26-35,36-45,Maharashtra,HDFC,Axis,Android,4G,0,21,Friday,0
+TXN598,22-11-2024 11:55,P2P,Grocery,389,SUCCESS,36-45,18-25,Gujarat,ICICI,HDFC,Android,3G,0,11,Friday,0
+TXN599,25-10-2024 04:31,P2P,Grocery,654,SUCCESS,18-25,26-35,Maharashtra,Yes Bank,IndusInd,Android,4G,0,4,Friday,0
+TXN600,17-09-2024 17:18,P2P,Entertainment,448,SUCCESS,26-35,36-45,Tamil Nadu,HDFC,Kotak,iOS,5G,0,17,Tuesday,0
+TXN601,27-02-2024 16:08,P2M,Other,510,SUCCESS,36-45,56+,Maharashtra,Axis,HDFC,iOS,WiFi,0,16,Tuesday,0
+TXN602,07-11-2024 20:10,P2M,Grocery,303,SUCCESS,18-25,18-25,Telangana,Kotak,SBI,Android,4G,0,20,Thursday,0
+TXN603,26-03-2024 22:24,P2P,Grocery,1406,SUCCESS,36-45,26-35,Karnataka,PNB,Kotak,Android,4G,0,22,Tuesday,0
+TXN604,17-10-2024 19:17,P2P,Healthcare,873,SUCCESS,26-35,26-35,Gujarat,SBI,PNB,iOS,3G,0,19,Thursday,0
+TXN605,20-03-2024 16:19,P2P,Entertainment,1094,SUCCESS,26-35,18-25,Karnataka,IndusInd,IndusInd,iOS,3G,0,16,Wednesday,0
+TXN606,11-06-2024 18:24,Bill Payment,Other,2596,SUCCESS,26-35,26-35,Tamil Nadu,HDFC,SBI,iOS,5G,0,18,Tuesday,0
+TXN607,26-06-2024 15:11,P2M,Grocery,661,SUCCESS,26-35,18-25,Gujarat,Axis,SBI,Android,4G,0,15,Wednesday,0
+TXN608,24-05-2024 16:20,P2M,Entertainment,671,SUCCESS,26-35,18-25,West Bengal,Axis,Kotak,Web,4G,0,16,Friday,0
+TXN609,15-05-2024 16:04,P2P,Food,107,SUCCESS,26-35,26-35,Gujarat,Axis,HDFC,Android,WiFi,0,16,Wednesday,0
+TXN610,29-03-2024 21:52,Bill Payment,Healthcare,1688,SUCCESS,56+,26-35,Karnataka,HDFC,SBI,Android,WiFi,0,21,Friday,0
+TXN611,06-09-2024 19:09,P2P,Entertainment,196,SUCCESS,46-55,26-35,Karnataka,IndusInd,IndusInd,Android,4G,0,19,Friday,0
+TXN612,11-10-2024 12:40,Bill Payment,Food,408,SUCCESS,36-45,18-25,Maharashtra,Axis,SBI,Android,4G,0,12,Friday,0
+TXN613,10-06-2024 13:59,P2M,Transport,401,SUCCESS,56+,26-35,Andhra Pradesh,IndusInd,ICICI,iOS,3G,0,13,Monday,0
+TXN614,16-10-2024 12:31,P2M,Grocery,208,SUCCESS,18-25,36-45,Uttar Pradesh,HDFC,SBI,iOS,WiFi,0,12,Wednesday,0
+TXN615,12-02-2024 18:46,P2P,Transport,1496,SUCCESS,18-25,26-35,Uttar Pradesh,ICICI,SBI,Android,4G,0,18,Monday,0
+TXN616,13-12-2024 16:21,Recharge,Shopping,331,SUCCESS,18-25,26-35,Tamil Nadu,SBI,Axis,iOS,4G,0,16,Friday,0
+TXN617,11-09-2024 09:02,P2P,Grocery,301,SUCCESS,26-35,26-35,Telangana,SBI,ICICI,Android,4G,0,9,Wednesday,0
+TXN618,04-09-2024 12:54,P2P,Food,70,SUCCESS,36-45,26-35,Maharashtra,HDFC,IndusInd,iOS,4G,0,12,Wednesday,0
+TXN619,11-03-2024 22:44,P2P,Other,581,SUCCESS,18-25,26-35,Telangana,ICICI,PNB,Android,4G,0,22,Monday,0
+TXN620,21-05-2024 23:50,P2P,Education,7282,SUCCESS,18-25,46-55,Uttar Pradesh,SBI,ICICI,Android,4G,0,23,Tuesday,0
+TXN621,21-11-2024 12:33,P2P,Grocery,1228,SUCCESS,18-25,46-55,Maharashtra,SBI,ICICI,Web,4G,0,12,Thursday,0
+TXN622,05-10-2024 14:48,P2M,Grocery,948,SUCCESS,18-25,26-35,Tamil Nadu,Kotak,SBI,Android,WiFi,0,14,Saturday,1
+TXN623,30-11-2024 12:36,P2P,Utilities,1097,SUCCESS,36-45,26-35,Uttar Pradesh,ICICI,SBI,Android,4G,0,12,Saturday,1
+TXN624,23-05-2024 18:19,P2M,Transport,597,SUCCESS,26-35,46-55,Telangana,ICICI,Yes Bank,Android,4G,0,18,Thursday,0
+TXN625,30-10-2024 15:42,P2M,Fuel,419,SUCCESS,18-25,46-55,Delhi,IndusInd,Kotak,iOS,4G,0,15,Wednesday,0
+TXN626,12-07-2024 17:20,P2P,Transport,151,SUCCESS,46-55,26-35,Uttar Pradesh,ICICI,IndusInd,Android,4G,0,17,Friday,0
+TXN627,27-01-2024 20:33,P2M,Food,327,SUCCESS,18-25,26-35,Tamil Nadu,ICICI,SBI,Android,WiFi,0,20,Saturday,1
+TXN628,21-05-2024 10:17,P2M,Food,68,SUCCESS,26-35,26-35,Karnataka,Yes Bank,HDFC,Android,4G,0,10,Tuesday,0
+TXN629,04-06-2024 21:10,P2M,Utilities,5176,SUCCESS,36-45,18-25,Gujarat,Kotak,PNB,Android,4G,0,21,Tuesday,0
+TXN630,02-08-2024 18:24,P2M,Fuel,1172,SUCCESS,56+,56+,Telangana,Axis,Yes Bank,Android,4G,0,18,Friday,0
+TXN631,25-03-2024 19:45,P2P,Shopping,244,SUCCESS,46-55,18-25,Rajasthan,IndusInd,PNB,Android,3G,0,19,Monday,0
+TXN632,28-06-2024 05:25,P2M,Entertainment,215,SUCCESS,36-45,46-55,West Bengal,SBI,HDFC,Android,4G,0,5,Friday,0
+TXN633,20-10-2024 13:13,Bill Payment,Fuel,349,SUCCESS,18-25,36-45,Gujarat,IndusInd,IndusInd,Android,5G,0,13,Sunday,1
+TXN634,08-02-2024 18:15,P2P,Grocery,197,FAILED,18-25,36-45,Karnataka,IndusInd,SBI,Android,WiFi,0,18,Thursday,0
+TXN635,27-10-2024 05:55,P2M,Food,1107,SUCCESS,26-35,18-25,Gujarat,Axis,IndusInd,Android,4G,0,5,Sunday,1
+TXN636,09-06-2024 09:30,P2P,Food,135,SUCCESS,18-25,36-45,Gujarat,SBI,SBI,Android,WiFi,0,9,Sunday,1
+TXN637,28-07-2024 13:10,Bill Payment,Utilities,2362,SUCCESS,26-35,26-35,Tamil Nadu,ICICI,Kotak,Android,4G,0,13,Sunday,1
+TXN638,27-05-2024 00:11,P2P,Shopping,422,SUCCESS,18-25,26-35,Maharashtra,IndusInd,Kotak,Android,4G,0,0,Monday,0
+TXN639,26-11-2024 11:56,P2P,Grocery,3084,SUCCESS,26-35,18-25,Telangana,Yes Bank,SBI,Web,4G,0,11,Tuesday,0
+TXN640,24-07-2024 10:13,P2P,Entertainment,1001,SUCCESS,18-25,56+,Uttar Pradesh,ICICI,SBI,Android,4G,0,10,Wednesday,0
+TXN641,06-08-2024 20:01,P2P,Transport,98,SUCCESS,26-35,18-25,Andhra Pradesh,ICICI,ICICI,Android,4G,0,20,Tuesday,0
+TXN642,15-04-2024 18:03,Bill Payment,Education,14968,SUCCESS,26-35,36-45,Maharashtra,Kotak,SBI,Web,3G,0,18,Monday,0
+TXN643,30-10-2024 18:25,P2P,Food,135,SUCCESS,26-35,26-35,Andhra Pradesh,SBI,SBI,Web,5G,0,18,Wednesday,0
+TXN644,28-12-2024 20:30,P2M,Transport,287,SUCCESS,46-55,26-35,Andhra Pradesh,SBI,SBI,Android,3G,0,20,Saturday,1
+TXN645,11-04-2024 17:42,P2M,Fuel,607,SUCCESS,18-25,18-25,Rajasthan,HDFC,SBI,Android,3G,0,17,Thursday,0
+TXN646,20-03-2024 14:33,P2P,Grocery,892,SUCCESS,36-45,36-45,Tamil Nadu,HDFC,SBI,iOS,4G,0,14,Wednesday,0
+TXN647,28-07-2024 20:32,P2P,Grocery,304,SUCCESS,56+,26-35,Delhi,PNB,ICICI,Android,3G,0,20,Sunday,1
+TXN648,09-06-2024 16:54,P2P,Grocery,584,SUCCESS,18-25,36-45,Telangana,SBI,Axis,Android,4G,0,16,Sunday,1
+TXN649,23-08-2024 22:30,P2M,Transport,635,SUCCESS,18-25,26-35,Telangana,ICICI,Yes Bank,Android,5G,0,22,Friday,0
+TXN650,20-11-2024 16:25,P2P,Education,2093,SUCCESS,18-25,26-35,Delhi,SBI,Axis,Web,4G,0,16,Wednesday,0
+TXN651,25-11-2024 21:16,P2P,Shopping,181,SUCCESS,18-25,26-35,West Bengal,HDFC,HDFC,iOS,4G,0,21,Monday,0
+TXN652,25-06-2024 20:46,P2P,Shopping,758,SUCCESS,26-35,18-25,West Bengal,SBI,SBI,Web,5G,0,20,Tuesday,0
+TXN653,22-09-2024 09:50,P2M,Food,452,SUCCESS,18-25,26-35,Delhi,IndusInd,SBI,Android,WiFi,0,9,Sunday,1
+TXN654,05-05-2024 16:59,P2P,Fuel,454,SUCCESS,18-25,18-25,Delhi,HDFC,IndusInd,Android,3G,0,16,Sunday,1
+TXN655,24-08-2024 10:07,Recharge,Grocery,191,SUCCESS,36-45,46-55,Tamil Nadu,HDFC,PNB,Android,5G,0,10,Saturday,1
+TXN656,16-12-2024 13:17,P2P,Healthcare,545,SUCCESS,46-55,46-55,Telangana,SBI,HDFC,Android,5G,0,13,Monday,0
+TXN657,29-07-2024 19:50,P2M,Grocery,2036,SUCCESS,26-35,26-35,Rajasthan,Axis,SBI,Android,4G,0,19,Monday,0
+TXN658,12-10-2024 13:52,P2P,Food,471,SUCCESS,26-35,36-45,Delhi,ICICI,IndusInd,Android,4G,0,13,Saturday,1
+TXN659,27-06-2024 05:42,P2M,Shopping,358,SUCCESS,18-25,26-35,Delhi,ICICI,Kotak,Web,4G,0,5,Thursday,0
+TXN660,12-07-2024 16:58,P2P,Education,1222,FAILED,46-55,36-45,Uttar Pradesh,IndusInd,PNB,Android,5G,0,16,Friday,0
+TXN661,13-06-2024 11:05,P2M,Transport,105,SUCCESS,26-35,36-45,Karnataka,Axis,SBI,Android,4G,0,11,Thursday,0
+TXN662,15-01-2024 15:04,P2M,Food,166,SUCCESS,26-35,26-35,Delhi,IndusInd,Axis,Android,4G,0,15,Monday,0
+TXN663,11-02-2024 17:41,P2P,Shopping,1536,SUCCESS,26-35,56+,Delhi,IndusInd,SBI,Android,4G,0,17,Sunday,1
+TXN664,05-10-2024 19:30,P2M,Education,20396,SUCCESS,26-35,46-55,Andhra Pradesh,SBI,Kotak,iOS,4G,0,19,Saturday,1
+TXN665,04-10-2024 21:17,P2P,Other,165,FAILED,36-45,36-45,Telangana,Yes Bank,HDFC,Android,4G,0,21,Friday,0
+TXN666,03-09-2024 21:59,P2M,Education,7115,FAILED,36-45,26-35,West Bengal,HDFC,IndusInd,Android,WiFi,0,21,Tuesday,0
+TXN667,16-03-2024 21:22,P2M,Shopping,792,SUCCESS,18-25,26-35,Karnataka,SBI,Yes Bank,Web,4G,0,21,Saturday,1
+TXN668,02-08-2024 18:22,P2P,Grocery,1568,SUCCESS,56+,26-35,Tamil Nadu,ICICI,SBI,Android,4G,0,18,Friday,0
+TXN669,29-08-2024 23:01,Bill Payment,Healthcare,477,SUCCESS,26-35,46-55,Andhra Pradesh,SBI,IndusInd,Android,5G,0,23,Thursday,0
+TXN670,27-08-2024 20:25,P2P,Other,261,SUCCESS,18-25,36-45,Maharashtra,Axis,HDFC,Android,WiFi,0,20,Tuesday,0
+TXN671,08-08-2024 17:00,Bill Payment,Shopping,791,SUCCESS,26-35,26-35,Andhra Pradesh,HDFC,SBI,Android,4G,0,17,Thursday,0
+TXN672,08-01-2024 19:32,P2M,Food,74,SUCCESS,26-35,18-25,West Bengal,HDFC,ICICI,Android,4G,0,19,Monday,0
+TXN673,07-10-2024 21:11,P2P,Grocery,1023,SUCCESS,26-35,46-55,Gujarat,ICICI,Axis,Android,4G,0,21,Monday,0
+TXN674,16-12-2024 21:26,P2M,Grocery,588,SUCCESS,18-25,26-35,Rajasthan,PNB,PNB,Android,4G,0,21,Monday,0
+TXN675,22-11-2024 11:31,P2M,Utilities,3195,SUCCESS,18-25,26-35,West Bengal,ICICI,Axis,Android,WiFi,0,11,Friday,0
+TXN676,06-01-2024 14:24,Recharge,Entertainment,436,SUCCESS,36-45,46-55,Karnataka,ICICI,Axis,Android,4G,0,14,Saturday,1
+TXN677,05-06-2024 14:35,P2P,Other,497,SUCCESS,46-55,46-55,Karnataka,IndusInd,Axis,iOS,4G,0,14,Wednesday,0
+TXN678,09-03-2024 08:40,P2P,Other,416,FAILED,36-45,18-25,Rajasthan,HDFC,Axis,Android,WiFi,0,8,Saturday,1
+TXN679,31-08-2024 08:01,Bill Payment,Shopping,432,SUCCESS,18-25,18-25,Delhi,PNB,Yes Bank,Android,5G,0,8,Saturday,1
+TXN680,01-09-2024 15:07,Bill Payment,Fuel,557,SUCCESS,36-45,46-55,Gujarat,SBI,Yes Bank,iOS,4G,0,15,Sunday,1
+TXN681,08-04-2024 16:58,P2M,Fuel,824,SUCCESS,26-35,26-35,Andhra Pradesh,Yes Bank,SBI,Android,4G,0,16,Monday,0
+TXN682,14-05-2024 17:31,P2M,Food,1347,SUCCESS,26-35,26-35,Maharashtra,Kotak,SBI,Android,3G,0,17,Tuesday,0
+TXN683,17-08-2024 17:52,P2M,Utilities,1423,SUCCESS,56+,18-25,Uttar Pradesh,HDFC,SBI,Android,3G,0,17,Saturday,1
+TXN684,11-11-2024 20:35,P2M,Shopping,3969,FAILED,46-55,56+,Karnataka,SBI,SBI,iOS,5G,0,20,Monday,0
+TXN685,09-01-2024 10:41,P2P,Other,598,SUCCESS,26-35,36-45,Tamil Nadu,IndusInd,SBI,Android,4G,0,10,Tuesday,0
+TXN686,20-01-2024 21:38,P2M,Entertainment,237,SUCCESS,46-55,18-25,Karnataka,PNB,SBI,iOS,4G,0,21,Saturday,1
+TXN687,11-11-2024 06:54,P2M,Shopping,1880,SUCCESS,36-45,36-45,Karnataka,IndusInd,SBI,Android,4G,0,6,Monday,0
+TXN688,08-04-2024 20:23,P2M,Fuel,516,SUCCESS,26-35,36-45,Gujarat,HDFC,SBI,Android,WiFi,0,20,Monday,0
+TXN689,25-10-2024 23:37,P2P,Food,164,SUCCESS,18-25,46-55,Telangana,PNB,Yes Bank,Android,4G,0,23,Friday,0
+TXN690,04-02-2024 18:09,P2M,Grocery,3200,SUCCESS,26-35,26-35,Maharashtra,SBI,Yes Bank,iOS,4G,0,18,Sunday,1
+TXN691,27-06-2024 13:51,P2P,Education,1719,SUCCESS,36-45,18-25,Telangana,HDFC,SBI,Android,WiFi,0,13,Thursday,0
+TXN692,11-03-2024 20:04,P2M,Other,203,SUCCESS,26-35,18-25,Rajasthan,SBI,Kotak,Android,WiFi,0,20,Monday,0
+TXN693,09-06-2024 16:07,Bill Payment,Fuel,2126,SUCCESS,26-35,26-35,Maharashtra,Axis,Yes Bank,Android,5G,0,16,Sunday,1
+TXN694,13-09-2024 16:41,P2P,Fuel,1437,SUCCESS,36-45,26-35,Gujarat,ICICI,ICICI,iOS,WiFi,0,16,Friday,0
+TXN695,18-01-2024 12:12,P2P,Utilities,2228,SUCCESS,36-45,18-25,Telangana,SBI,Axis,Android,4G,0,12,Thursday,0
+TXN696,10-01-2024 01:41,P2P,Education,1312,FAILED,36-45,18-25,Telangana,SBI,HDFC,Android,4G,0,1,Wednesday,0
+TXN697,04-01-2024 05:05,P2P,Utilities,5764,SUCCESS,18-25,26-35,Tamil Nadu,SBI,IndusInd,Android,4G,0,5,Thursday,0
+TXN698,19-11-2024 10:09,Bill Payment,Grocery,3765,SUCCESS,26-35,18-25,Uttar Pradesh,ICICI,HDFC,iOS,5G,0,10,Tuesday,0
+TXN699,08-08-2024 21:59,P2M,Utilities,3122,SUCCESS,36-45,18-25,Maharashtra,SBI,PNB,Android,5G,0,21,Thursday,0
+TXN700,29-09-2024 21:11,P2P,Shopping,440,SUCCESS,36-45,36-45,Maharashtra,Yes Bank,IndusInd,iOS,4G,0,21,Sunday,1
+TXN701,16-06-2024 23:19,P2P,Food,1070,SUCCESS,36-45,36-45,Telangana,IndusInd,IndusInd,Web,4G,0,23,Sunday,1
+TXN702,28-06-2024 18:54,P2P,Healthcare,421,SUCCESS,18-25,26-35,Maharashtra,ICICI,IndusInd,Android,WiFi,0,18,Friday,0
+TXN703,18-04-2024 20:18,P2M,Grocery,2055,SUCCESS,26-35,36-45,West Bengal,PNB,ICICI,Android,5G,0,20,Thursday,0
+TXN704,23-07-2024 18:27,P2P,Shopping,4081,SUCCESS,18-25,56+,Telangana,SBI,HDFC,iOS,4G,0,18,Tuesday,0
+TXN705,18-03-2024 15:52,P2M,Food,1659,SUCCESS,26-35,36-45,Maharashtra,SBI,Yes Bank,Android,4G,0,15,Monday,0
+TXN706,01-05-2024 18:23,P2P,Grocery,314,SUCCESS,46-55,26-35,Tamil Nadu,SBI,Kotak,Android,4G,0,18,Wednesday,0
+TXN707,29-04-2024 19:48,Bill Payment,Fuel,2962,SUCCESS,18-25,26-35,Karnataka,SBI,Yes Bank,Android,4G,0,19,Monday,0
+TXN708,25-12-2024 16:42,P2P,Grocery,197,SUCCESS,18-25,46-55,Maharashtra,ICICI,IndusInd,iOS,4G,0,16,Wednesday,0
+TXN709,11-04-2024 10:16,P2P,Transport,105,SUCCESS,36-45,26-35,Andhra Pradesh,Axis,PNB,Android,4G,0,10,Thursday,0
+TXN710,27-02-2024 17:09,P2M,Food,103,SUCCESS,18-25,36-45,Uttar Pradesh,Yes Bank,Axis,Android,WiFi,0,17,Tuesday,0
+TXN711,02-05-2024 22:55,P2P,Other,324,SUCCESS,18-25,18-25,West Bengal,IndusInd,Axis,iOS,4G,0,22,Thursday,0
+TXN712,07-06-2024 13:19,P2M,Transport,131,SUCCESS,26-35,36-45,Gujarat,Axis,SBI,Android,5G,0,13,Friday,0
+TXN713,05-03-2024 22:55,P2P,Utilities,3092,SUCCESS,26-35,18-25,Andhra Pradesh,Axis,ICICI,Android,4G,0,22,Tuesday,0
+TXN714,08-07-2024 21:30,P2M,Transport,40,SUCCESS,36-45,36-45,Maharashtra,SBI,HDFC,Web,4G,0,21,Monday,0
+TXN715,01-09-2024 23:57,Bill Payment,Entertainment,258,SUCCESS,46-55,26-35,Telangana,Axis,SBI,Android,5G,0,23,Sunday,1
+TXN716,22-04-2024 11:33,P2P,Shopping,6048,SUCCESS,18-25,18-25,Tamil Nadu,HDFC,ICICI,Android,4G,0,11,Monday,0
+TXN717,07-04-2024 19:57,P2M,Transport,563,SUCCESS,26-35,46-55,Telangana,HDFC,SBI,Android,4G,0,19,Sunday,1
+TXN718,19-03-2024 16:20,P2M,Grocery,1835,SUCCESS,18-25,26-35,Tamil Nadu,ICICI,SBI,Android,5G,0,16,Tuesday,0
+TXN719,30-09-2024 23:00,P2M,Transport,85,SUCCESS,56+,18-25,Maharashtra,Kotak,Axis,iOS,4G,0,23,Monday,0
+TXN720,25-04-2024 19:50,P2P,Grocery,883,SUCCESS,26-35,26-35,Delhi,SBI,Yes Bank,Android,5G,0,19,Thursday,0
+TXN721,12-07-2024 12:10,P2P,Entertainment,899,SUCCESS,18-25,18-25,Uttar Pradesh,HDFC,Yes Bank,Android,4G,0,12,Friday,0
+TXN722,12-05-2024 23:48,Bill Payment,Education,573,SUCCESS,26-35,36-45,Karnataka,Yes Bank,HDFC,Android,5G,0,23,Sunday,1
+TXN723,14-03-2024 19:56,P2M,Fuel,324,SUCCESS,26-35,36-45,Karnataka,SBI,Axis,Android,WiFi,0,19,Thursday,0
+TXN724,19-12-2024 05:54,P2M,Grocery,96,SUCCESS,26-35,36-45,Maharashtra,PNB,Yes Bank,Android,5G,0,5,Thursday,0
+TXN725,20-01-2024 21:05,P2M,Grocery,151,SUCCESS,56+,56+,Telangana,Yes Bank,PNB,Android,5G,0,21,Saturday,1
+TXN726,27-12-2024 08:56,P2M,Utilities,266,SUCCESS,36-45,26-35,Maharashtra,IndusInd,Kotak,Android,4G,0,8,Friday,0
+TXN727,20-02-2024 19:50,Bill Payment,Shopping,188,SUCCESS,36-45,36-45,Uttar Pradesh,Yes Bank,SBI,Android,4G,0,19,Tuesday,0
+TXN728,26-11-2024 15:53,P2P,Utilities,1682,SUCCESS,26-35,26-35,Andhra Pradesh,PNB,Kotak,Android,4G,0,15,Tuesday,0
+TXN729,05-10-2024 10:30,P2M,Other,927,SUCCESS,46-55,56+,Telangana,SBI,Yes Bank,Android,5G,0,10,Saturday,1
+TXN730,23-12-2024 10:33,Bill Payment,Fuel,318,SUCCESS,26-35,36-45,Uttar Pradesh,ICICI,HDFC,Android,5G,0,10,Monday,0
+TXN731,14-10-2024 18:41,P2M,Fuel,973,SUCCESS,36-45,18-25,Karnataka,HDFC,PNB,Android,WiFi,0,18,Monday,0
+TXN732,09-07-2024 14:46,P2P,Fuel,619,SUCCESS,26-35,26-35,Delhi,Kotak,SBI,Android,4G,0,14,Tuesday,0
+TXN733,14-02-2024 21:40,Bill Payment,Other,243,SUCCESS,36-45,26-35,Karnataka,Axis,SBI,Android,4G,0,21,Wednesday,0
+TXN734,16-04-2024 10:26,P2P,Utilities,4103,SUCCESS,26-35,36-45,Karnataka,Axis,ICICI,Web,4G,0,10,Tuesday,0
+TXN735,20-04-2024 09:39,P2M,Shopping,738,SUCCESS,26-35,56+,Uttar Pradesh,SBI,SBI,Android,3G,0,9,Saturday,1
+TXN736,15-12-2024 20:09,P2M,Shopping,440,SUCCESS,46-55,26-35,Andhra Pradesh,SBI,PNB,Android,4G,0,20,Sunday,1
+TXN737,26-08-2024 21:59,Bill Payment,Grocery,2150,SUCCESS,26-35,18-25,Tamil Nadu,SBI,HDFC,Android,3G,0,21,Monday,0
+TXN738,31-05-2024 15:37,P2M,Other,412,SUCCESS,26-35,36-45,Maharashtra,HDFC,PNB,iOS,4G,0,15,Friday,0
+TXN739,26-07-2024 07:02,Bill Payment,Transport,69,FAILED,36-45,26-35,Andhra Pradesh,Yes Bank,IndusInd,iOS,4G,0,7,Friday,0
+TXN740,21-06-2024 18:51,P2P,Fuel,1742,SUCCESS,18-25,26-35,West Bengal,HDFC,SBI,Android,5G,0,18,Friday,0
+TXN741,30-10-2024 17:37,Recharge,Healthcare,361,SUCCESS,18-25,18-25,Karnataka,SBI,ICICI,Android,5G,1,17,Wednesday,0
+TXN742,07-10-2024 10:06,P2P,Entertainment,288,SUCCESS,56+,36-45,Uttar Pradesh,ICICI,ICICI,Android,4G,0,10,Monday,0
+TXN743,23-05-2024 21:56,P2P,Food,152,SUCCESS,18-25,26-35,West Bengal,Kotak,Axis,Android,4G,0,21,Thursday,0
+TXN744,06-03-2024 23:50,Bill Payment,Food,282,SUCCESS,36-45,26-35,Gujarat,Kotak,IndusInd,Android,5G,0,23,Wednesday,0
+TXN745,15-08-2024 12:52,P2P,Transport,90,SUCCESS,18-25,36-45,Andhra Pradesh,PNB,SBI,Android,4G,0,12,Thursday,0
+TXN746,04-12-2024 16:12,Bill Payment,Entertainment,104,SUCCESS,36-45,18-25,Tamil Nadu,SBI,HDFC,Web,5G,0,16,Wednesday,0
+TXN747,25-11-2024 15:53,Bill Payment,Entertainment,169,SUCCESS,26-35,46-55,Delhi,PNB,IndusInd,Android,4G,0,15,Monday,0
+TXN748,04-09-2024 14:26,P2P,Other,2333,SUCCESS,46-55,18-25,Tamil Nadu,PNB,SBI,Android,5G,0,14,Wednesday,0
+TXN749,19-05-2024 13:12,P2P,Healthcare,231,SUCCESS,18-25,36-45,Rajasthan,Kotak,SBI,Android,4G,0,13,Sunday,1
+TXN750,09-05-2024 11:49,Bill Payment,Food,1257,SUCCESS,26-35,26-35,Karnataka,Yes Bank,SBI,Android,4G,0,11,Thursday,0
+TXN751,22-05-2024 20:48,P2M,Other,2293,SUCCESS,36-45,26-35,Maharashtra,HDFC,IndusInd,iOS,4G,0,20,Wednesday,0
+TXN752,28-07-2024 11:25,P2P,Grocery,1771,SUCCESS,36-45,18-25,Telangana,SBI,PNB,iOS,5G,0,11,Sunday,1
+TXN753,24-11-2024 13:20,Bill Payment,Other,1233,SUCCESS,36-45,56+,Maharashtra,PNB,SBI,Android,4G,0,13,Sunday,1
+TXN754,07-01-2024 10:12,Bill Payment,Shopping,1232,SUCCESS,18-25,26-35,Maharashtra,HDFC,SBI,iOS,3G,0,10,Sunday,1
+TXN755,28-08-2024 17:18,P2M,Food,155,SUCCESS,26-35,18-25,Telangana,HDFC,Yes Bank,Android,4G,0,17,Wednesday,0
+TXN756,24-08-2024 19:03,Bill Payment,Fuel,620,SUCCESS,26-35,36-45,Telangana,IndusInd,Axis,Android,5G,0,19,Saturday,1
+TXN757,08-03-2024 07:56,P2P,Fuel,1424,SUCCESS,36-45,26-35,Delhi,PNB,Kotak,Android,WiFi,0,7,Friday,0
+TXN758,17-10-2024 13:25,P2M,Food,507,SUCCESS,46-55,18-25,Rajasthan,PNB,Kotak,Android,4G,0,13,Thursday,0
+TXN759,05-01-2024 12:14,P2P,Food,627,SUCCESS,26-35,46-55,Maharashtra,SBI,Kotak,Android,5G,0,12,Friday,0
+TXN760,24-09-2024 11:41,P2M,Transport,811,SUCCESS,18-25,36-45,Delhi,PNB,SBI,Android,4G,0,11,Tuesday,0
+TXN761,14-07-2024 16:26,P2P,Entertainment,162,SUCCESS,36-45,18-25,Maharashtra,Axis,ICICI,iOS,5G,0,16,Sunday,1
+TXN762,24-03-2024 11:46,Recharge,Transport,75,SUCCESS,36-45,26-35,Uttar Pradesh,Kotak,SBI,Android,WiFi,0,11,Sunday,1
+TXN763,18-08-2024 21:28,P2P,Transport,458,SUCCESS,46-55,56+,Andhra Pradesh,SBI,PNB,Android,5G,0,21,Sunday,1
+TXN764,10-07-2024 18:09,P2P,Food,348,SUCCESS,26-35,18-25,Delhi,IndusInd,IndusInd,Android,4G,0,18,Wednesday,0
+TXN765,01-09-2024 13:48,P2P,Education,1931,SUCCESS,36-45,36-45,Maharashtra,IndusInd,Axis,Android,4G,0,13,Sunday,1
+TXN766,13-12-2024 12:07,P2P,Other,928,SUCCESS,26-35,26-35,Delhi,SBI,Axis,Android,4G,0,12,Friday,0
+TXN767,28-01-2024 17:14,P2M,Shopping,1440,SUCCESS,18-25,18-25,Maharashtra,SBI,SBI,Android,5G,0,17,Sunday,1
+TXN768,21-09-2024 12:51,P2M,Other,757,SUCCESS,36-45,46-55,Gujarat,HDFC,Kotak,Android,5G,0,12,Saturday,1
+TXN769,06-06-2024 19:12,P2M,Other,590,SUCCESS,26-35,26-35,Gujarat,HDFC,PNB,Android,5G,0,19,Thursday,0
+TXN770,02-07-2024 10:38,P2M,Fuel,4229,SUCCESS,36-45,36-45,Karnataka,SBI,SBI,Android,5G,0,10,Tuesday,0
+TXN771,22-09-2024 10:27,P2M,Fuel,426,SUCCESS,46-55,56+,Tamil Nadu,Axis,Axis,Android,5G,0,10,Sunday,1
+TXN772,27-11-2024 18:29,P2M,Grocery,469,SUCCESS,46-55,36-45,West Bengal,SBI,IndusInd,Android,WiFi,0,18,Wednesday,0
+TXN773,14-03-2024 21:37,P2M,Fuel,373,SUCCESS,18-25,56+,Uttar Pradesh,PNB,Yes Bank,Android,4G,0,21,Thursday,0
+TXN774,23-07-2024 13:20,P2P,Fuel,2033,SUCCESS,46-55,46-55,Andhra Pradesh,SBI,PNB,Android,4G,0,13,Tuesday,0
+TXN775,25-09-2024 19:48,P2M,Utilities,3086,SUCCESS,46-55,26-35,Maharashtra,IndusInd,PNB,iOS,4G,0,19,Wednesday,0
+TXN776,07-02-2024 16:48,P2P,Grocery,2044,SUCCESS,18-25,36-45,Maharashtra,SBI,ICICI,Android,5G,0,16,Wednesday,0
+TXN777,01-08-2024 16:58,P2P,Utilities,259,FAILED,26-35,56+,Andhra Pradesh,Yes Bank,ICICI,Android,4G,0,16,Thursday,0
+TXN778,29-12-2024 06:52,P2P,Entertainment,487,FAILED,26-35,18-25,Maharashtra,SBI,IndusInd,Android,3G,0,6,Sunday,1
+TXN779,12-05-2024 17:20,P2P,Utilities,2587,SUCCESS,26-35,18-25,Rajasthan,SBI,SBI,iOS,4G,0,17,Sunday,1
+TXN780,10-09-2024 16:07,P2P,Transport,107,SUCCESS,26-35,36-45,Karnataka,Kotak,SBI,Android,3G,0,16,Tuesday,0
+TXN781,30-03-2024 20:20,P2P,Fuel,403,SUCCESS,18-25,36-45,West Bengal,SBI,SBI,Android,4G,0,20,Saturday,1
+TXN782,02-05-2024 13:43,Recharge,Entertainment,194,SUCCESS,26-35,56+,Maharashtra,PNB,Yes Bank,Android,4G,0,13,Thursday,0
+TXN783,21-05-2024 06:32,P2P,Utilities,421,SUCCESS,36-45,46-55,West Bengal,Kotak,Yes Bank,Android,4G,0,6,Tuesday,0
+TXN784,23-03-2024 11:02,Recharge,Entertainment,187,SUCCESS,26-35,36-45,Delhi,SBI,Kotak,Android,5G,0,11,Saturday,1
+TXN785,24-10-2024 09:48,P2M,Shopping,2109,SUCCESS,18-25,36-45,Tamil Nadu,ICICI,ICICI,Android,WiFi,0,9,Thursday,0
+TXN786,14-12-2024 10:58,P2P,Transport,46,SUCCESS,26-35,36-45,Uttar Pradesh,PNB,Axis,iOS,WiFi,0,10,Saturday,1
+TXN787,06-08-2024 10:13,Bill Payment,Utilities,8818,SUCCESS,46-55,36-45,Telangana,Yes Bank,SBI,Android,5G,0,10,Tuesday,0
+TXN788,30-01-2024 19:13,P2M,Shopping,223,SUCCESS,36-45,26-35,Rajasthan,PNB,HDFC,Android,4G,0,19,Tuesday,0
+TXN789,23-02-2024 20:30,P2P,Grocery,2769,SUCCESS,46-55,26-35,Uttar Pradesh,ICICI,Axis,iOS,4G,0,20,Friday,0
+TXN790,02-01-2024 21:28,P2M,Other,309,SUCCESS,26-35,26-35,West Bengal,Axis,ICICI,Android,3G,0,21,Tuesday,0
+TXN791,03-03-2024 11:30,P2P,Utilities,5529,SUCCESS,26-35,18-25,Uttar Pradesh,IndusInd,ICICI,Android,4G,0,11,Sunday,1
+TXN792,07-01-2024 17:46,P2P,Shopping,314,SUCCESS,36-45,18-25,West Bengal,Yes Bank,IndusInd,iOS,5G,0,17,Sunday,1
+TXN793,21-12-2024 18:10,P2P,Utilities,2543,SUCCESS,36-45,36-45,Tamil Nadu,HDFC,HDFC,Android,4G,0,18,Saturday,1
+TXN794,04-06-2024 06:16,P2M,Utilities,2016,SUCCESS,18-25,26-35,Andhra Pradesh,ICICI,PNB,Android,4G,0,6,Tuesday,0
+TXN795,29-06-2024 16:48,P2P,Food,228,SUCCESS,26-35,26-35,Andhra Pradesh,ICICI,PNB,Android,4G,0,16,Saturday,1
+TXN796,08-12-2024 08:08,Bill Payment,Transport,321,SUCCESS,36-45,18-25,Karnataka,HDFC,SBI,iOS,4G,0,8,Sunday,1
+TXN797,12-06-2024 16:59,P2P,Food,124,SUCCESS,26-35,18-25,Karnataka,HDFC,ICICI,Android,5G,0,16,Wednesday,0
+TXN798,27-12-2024 20:27,P2M,Fuel,1069,SUCCESS,36-45,56+,Tamil Nadu,PNB,Kotak,Android,4G,0,20,Friday,0
+TXN799,22-04-2024 00:57,P2M,Grocery,2124,SUCCESS,18-25,18-25,Uttar Pradesh,Yes Bank,Yes Bank,Android,4G,0,0,Monday,0
+TXN800,10-01-2024 17:34,Bill Payment,Fuel,1357,SUCCESS,18-25,18-25,West Bengal,Axis,HDFC,Web,4G,0,17,Wednesday,0
+TXN801,27-04-2024 19:38,Bill Payment,Shopping,2536,SUCCESS,36-45,18-25,Karnataka,PNB,Axis,Android,5G,0,19,Saturday,1
+TXN802,19-12-2024 21:26,P2P,Other,1446,SUCCESS,18-25,36-45,Telangana,Axis,SBI,Android,4G,0,21,Thursday,0
+TXN803,06-09-2024 12:43,P2M,Shopping,7271,SUCCESS,26-35,36-45,Tamil Nadu,HDFC,ICICI,iOS,4G,0,12,Friday,0
+TXN804,13-06-2024 11:11,Bill Payment,Grocery,512,SUCCESS,18-25,36-45,Uttar Pradesh,Yes Bank,ICICI,iOS,4G,0,11,Thursday,0
+TXN805,07-10-2024 21:51,P2P,Food,113,SUCCESS,18-25,26-35,Maharashtra,IndusInd,ICICI,Android,4G,0,21,Monday,0
+TXN806,11-08-2024 22:38,Bill Payment,Transport,78,SUCCESS,26-35,18-25,West Bengal,IndusInd,HDFC,Android,4G,0,22,Sunday,1
+TXN807,21-06-2024 12:17,P2P,Other,375,SUCCESS,18-25,36-45,Telangana,Yes Bank,Kotak,Android,5G,0,12,Friday,0
+TXN808,13-09-2024 13:34,P2M,Fuel,776,SUCCESS,26-35,18-25,Maharashtra,SBI,SBI,Android,4G,0,13,Friday,0
+TXN809,15-08-2024 11:37,P2M,Grocery,1878,SUCCESS,56+,36-45,Maharashtra,Kotak,SBI,Android,5G,0,11,Thursday,0
+TXN810,29-11-2024 17:49,P2P,Other,442,SUCCESS,26-35,26-35,Maharashtra,PNB,HDFC,Android,4G,0,17,Friday,0
+TXN811,21-09-2024 17:53,P2P,Healthcare,1048,SUCCESS,56+,36-45,Delhi,Kotak,ICICI,Android,5G,0,17,Saturday,1
+TXN812,30-11-2024 16:06,P2P,Utilities,154,SUCCESS,26-35,26-35,West Bengal,SBI,Kotak,Android,4G,0,16,Saturday,1
+TXN813,11-12-2024 14:54,Bill Payment,Food,1028,SUCCESS,36-45,26-35,Telangana,Axis,SBI,iOS,4G,0,14,Wednesday,0
+TXN814,15-06-2024 08:19,P2P,Transport,518,SUCCESS,26-35,36-45,West Bengal,Axis,Axis,Android,5G,0,8,Saturday,1
+TXN815,10-02-2024 18:43,P2M,Grocery,342,SUCCESS,26-35,18-25,Uttar Pradesh,IndusInd,Axis,Android,4G,0,18,Saturday,1
+TXN816,13-06-2024 11:18,P2P,Utilities,170,SUCCESS,18-25,26-35,Andhra Pradesh,Kotak,Kotak,Android,4G,0,11,Thursday,0
+TXN817,09-03-2024 18:26,P2P,Grocery,3953,SUCCESS,36-45,26-35,Maharashtra,HDFC,Axis,Android,4G,0,18,Saturday,1
+TXN818,08-06-2024 10:14,P2P,Shopping,746,SUCCESS,26-35,18-25,Andhra Pradesh,HDFC,SBI,Android,4G,0,10,Saturday,1
+TXN819,06-10-2024 19:08,P2M,Transport,646,SUCCESS,18-25,36-45,Tamil Nadu,SBI,SBI,Android,5G,0,19,Sunday,1
+TXN820,27-04-2024 22:35,P2M,Grocery,834,FAILED,26-35,36-45,Telangana,ICICI,HDFC,Android,4G,0,22,Saturday,1
+TXN821,29-05-2024 17:47,P2M,Other,1020,SUCCESS,36-45,46-55,Maharashtra,IndusInd,PNB,Android,5G,0,17,Wednesday,0
+TXN822,05-06-2024 11:42,P2P,Other,498,SUCCESS,26-35,46-55,Tamil Nadu,Kotak,ICICI,Android,4G,0,11,Wednesday,0
+TXN823,21-07-2024 20:13,P2M,Food,1151,SUCCESS,18-25,36-45,Delhi,Kotak,IndusInd,iOS,4G,0,20,Sunday,1
+TXN824,19-11-2024 04:00,P2P,Transport,690,SUCCESS,18-25,26-35,Uttar Pradesh,IndusInd,SBI,Android,4G,0,4,Tuesday,0
+TXN825,22-02-2024 18:29,P2P,Grocery,100,SUCCESS,56+,26-35,Maharashtra,Axis,ICICI,Android,WiFi,0,18,Thursday,0
+TXN826,06-11-2024 11:55,P2P,Other,1490,SUCCESS,26-35,26-35,Tamil Nadu,Axis,SBI,Android,5G,0,11,Wednesday,0
+TXN827,10-03-2024 15:23,P2P,Utilities,2528,SUCCESS,36-45,18-25,Delhi,HDFC,PNB,Android,4G,0,15,Sunday,1
+TXN828,18-04-2024 12:58,P2P,Shopping,5140,SUCCESS,36-45,26-35,Andhra Pradesh,Yes Bank,ICICI,Android,4G,0,12,Thursday,0
+TXN829,17-03-2024 11:11,P2M,Shopping,536,SUCCESS,18-25,36-45,Gujarat,SBI,IndusInd,Android,3G,0,11,Sunday,1
+TXN830,03-12-2024 19:13,P2M,Grocery,190,SUCCESS,18-25,18-25,Maharashtra,ICICI,Kotak,Android,WiFi,0,19,Tuesday,0
+TXN831,25-10-2024 11:10,P2M,Other,434,SUCCESS,18-25,18-25,Andhra Pradesh,Axis,HDFC,Android,5G,0,11,Friday,0
+TXN832,30-12-2024 10:49,P2M,Food,206,SUCCESS,26-35,26-35,Tamil Nadu,Kotak,Kotak,Android,4G,0,10,Monday,0
+TXN833,15-08-2024 18:15,P2P,Food,303,SUCCESS,36-45,18-25,Karnataka,SBI,HDFC,iOS,4G,0,18,Thursday,0
+TXN834,10-05-2024 20:34,P2P,Shopping,2405,SUCCESS,18-25,26-35,Gujarat,Yes Bank,Axis,Android,4G,0,20,Friday,0
+TXN835,05-06-2024 12:41,P2M,Utilities,968,SUCCESS,36-45,26-35,Rajasthan,IndusInd,SBI,Android,3G,0,12,Wednesday,0
+TXN836,24-10-2024 08:03,Bill Payment,Shopping,811,SUCCESS,26-35,26-35,Karnataka,PNB,HDFC,iOS,4G,0,8,Thursday,0
+TXN837,09-03-2024 20:46,P2P,Food,2322,SUCCESS,36-45,26-35,Uttar Pradesh,Yes Bank,IndusInd,Android,4G,0,20,Saturday,1
+TXN838,17-12-2024 13:25,P2M,Food,204,SUCCESS,26-35,18-25,Delhi,PNB,Kotak,Android,5G,0,13,Tuesday,0
+TXN839,05-06-2024 11:22,P2P,Food,298,SUCCESS,26-35,36-45,Rajasthan,SBI,Axis,Android,4G,0,11,Wednesday,0
+TXN840,27-01-2024 19:26,P2M,Transport,135,SUCCESS,26-35,18-25,Uttar Pradesh,Kotak,PNB,Android,WiFi,0,19,Saturday,1
+TXN841,26-02-2024 18:50,P2P,Shopping,129,SUCCESS,46-55,26-35,Rajasthan,IndusInd,PNB,Android,4G,0,18,Monday,0
+TXN842,03-01-2024 23:50,P2P,Shopping,539,SUCCESS,56+,18-25,Rajasthan,Kotak,Kotak,Android,3G,0,23,Wednesday,0
+TXN843,18-07-2024 20:29,P2P,Other,1017,SUCCESS,26-35,26-35,Uttar Pradesh,Yes Bank,Yes Bank,Android,5G,0,20,Thursday,0
+TXN844,02-09-2024 11:24,Bill Payment,Entertainment,127,SUCCESS,26-35,56+,Tamil Nadu,SBI,Kotak,Android,3G,0,11,Monday,0
+TXN845,17-07-2024 10:03,Bill Payment,Other,778,SUCCESS,36-45,18-25,Gujarat,SBI,ICICI,Android,4G,0,10,Wednesday,0
+TXN846,23-02-2024 01:50,P2P,Transport,365,SUCCESS,36-45,36-45,Rajasthan,SBI,Kotak,Android,4G,0,1,Friday,0
+TXN847,28-06-2024 13:49,P2M,Grocery,845,SUCCESS,36-45,26-35,Karnataka,PNB,HDFC,Web,4G,0,13,Friday,0
+TXN848,26-03-2024 19:31,P2P,Entertainment,150,SUCCESS,46-55,26-35,Andhra Pradesh,Yes Bank,SBI,Android,5G,0,19,Tuesday,0
+TXN849,30-07-2024 16:51,P2M,Grocery,1946,FAILED,26-35,56+,Delhi,PNB,IndusInd,Android,5G,0,16,Tuesday,0
+TXN850,25-02-2024 18:55,P2P,Shopping,358,SUCCESS,46-55,36-45,Telangana,IndusInd,IndusInd,iOS,5G,0,18,Sunday,1
+TXN851,28-09-2024 22:15,Bill Payment,Shopping,397,SUCCESS,36-45,26-35,Tamil Nadu,Axis,SBI,Android,4G,0,22,Saturday,1
+TXN852,20-02-2024 16:37,P2M,Grocery,796,SUCCESS,46-55,26-35,Uttar Pradesh,SBI,IndusInd,Android,4G,0,16,Tuesday,0
+TXN853,26-05-2024 16:37,P2M,Other,190,SUCCESS,26-35,36-45,Maharashtra,HDFC,Kotak,Android,5G,0,16,Sunday,1
+TXN854,03-04-2024 23:29,P2P,Grocery,163,SUCCESS,56+,46-55,Maharashtra,IndusInd,Yes Bank,Android,4G,0,23,Wednesday,0
+TXN855,29-06-2024 22:50,P2M,Other,671,SUCCESS,36-45,26-35,Andhra Pradesh,SBI,SBI,iOS,4G,0,22,Saturday,1
+TXN856,01-01-2024 15:33,Recharge,Food,1185,SUCCESS,26-35,36-45,West Bengal,IndusInd,SBI,iOS,WiFi,0,15,Monday,0
+TXN857,28-01-2024 20:55,Bill Payment,Fuel,2376,FAILED,18-25,46-55,Andhra Pradesh,Kotak,SBI,Android,5G,0,20,Sunday,1
+TXN858,15-07-2024 02:31,P2M,Utilities,6366,SUCCESS,36-45,46-55,Telangana,ICICI,SBI,Android,4G,0,2,Monday,0
+TXN859,24-02-2024 02:08,P2P,Entertainment,481,SUCCESS,36-45,46-55,Delhi,SBI,Kotak,Android,4G,0,2,Saturday,1
+TXN860,25-11-2024 19:51,P2M,Transport,954,SUCCESS,18-25,36-45,Maharashtra,HDFC,Kotak,Android,4G,0,19,Monday,0
+TXN861,21-01-2024 04:34,P2M,Other,192,SUCCESS,18-25,26-35,West Bengal,Axis,Yes Bank,Android,4G,0,4,Sunday,1
+TXN862,24-07-2024 14:55,P2M,Grocery,548,SUCCESS,26-35,18-25,Delhi,SBI,HDFC,Android,5G,0,14,Wednesday,0
+TXN863,02-09-2024 16:58,P2P,Other,446,SUCCESS,26-35,36-45,Andhra Pradesh,SBI,Yes Bank,Android,4G,0,16,Monday,0
+TXN864,17-02-2024 19:22,P2M,Fuel,2627,SUCCESS,18-25,26-35,West Bengal,Yes Bank,ICICI,Web,3G,0,19,Saturday,1
+TXN865,01-04-2024 19:17,Bill Payment,Shopping,3760,SUCCESS,26-35,18-25,Maharashtra,SBI,Kotak,Android,3G,0,19,Monday,0
+TXN866,01-03-2024 21:20,P2M,Other,264,SUCCESS,26-35,26-35,Karnataka,SBI,SBI,Android,4G,0,21,Friday,0
+TXN867,16-11-2024 09:11,P2M,Food,123,SUCCESS,26-35,26-35,Gujarat,SBI,HDFC,Android,4G,0,9,Saturday,1
+TXN868,12-06-2024 13:04,Bill Payment,Fuel,1137,SUCCESS,46-55,36-45,West Bengal,Yes Bank,HDFC,Android,5G,0,13,Wednesday,0
+TXN869,16-04-2024 20:42,P2P,Shopping,365,SUCCESS,18-25,18-25,Tamil Nadu,HDFC,IndusInd,Android,WiFi,0,20,Tuesday,0
+TXN870,14-08-2024 09:10,Recharge,Healthcare,875,SUCCESS,36-45,26-35,Andhra Pradesh,Kotak,IndusInd,Android,3G,0,9,Wednesday,0
+TXN871,27-02-2024 18:13,P2P,Grocery,1526,SUCCESS,18-25,26-35,West Bengal,ICICI,Yes Bank,iOS,4G,0,18,Tuesday,0
+TXN872,23-12-2024 10:54,P2P,Transport,143,SUCCESS,18-25,26-35,West Bengal,IndusInd,HDFC,Android,4G,0,10,Monday,0
+TXN873,20-01-2024 20:45,P2P,Entertainment,249,SUCCESS,36-45,36-45,Uttar Pradesh,SBI,IndusInd,iOS,5G,0,20,Saturday,1
+TXN874,14-08-2024 09:57,P2P,Grocery,1081,SUCCESS,26-35,46-55,Tamil Nadu,PNB,SBI,Android,WiFi,0,9,Wednesday,0
+TXN875,08-05-2024 06:46,P2M,Healthcare,86,SUCCESS,18-25,26-35,Uttar Pradesh,ICICI,Yes Bank,Android,4G,0,6,Wednesday,0
+TXN876,15-05-2024 08:41,P2P,Shopping,1058,SUCCESS,26-35,36-45,Maharashtra,HDFC,Yes Bank,Android,4G,0,8,Wednesday,0
+TXN877,19-08-2024 17:41,P2P,Other,1360,SUCCESS,18-25,26-35,Delhi,SBI,Axis,iOS,4G,0,17,Monday,0
+TXN878,30-06-2024 12:03,P2P,Entertainment,1079,SUCCESS,36-45,36-45,Gujarat,HDFC,ICICI,Android,4G,0,12,Sunday,1
+TXN879,06-02-2024 19:17,P2M,Entertainment,160,FAILED,36-45,36-45,Uttar Pradesh,PNB,IndusInd,Android,5G,0,19,Tuesday,0
+TXN880,04-01-2024 11:51,P2M,Entertainment,98,SUCCESS,56+,56+,Uttar Pradesh,ICICI,Axis,Android,4G,0,11,Thursday,0
+TXN881,11-07-2024 07:02,P2P,Transport,671,SUCCESS,26-35,26-35,Rajasthan,HDFC,SBI,Android,4G,0,7,Thursday,0
+TXN882,18-05-2024 20:16,P2P,Shopping,645,FAILED,18-25,36-45,Rajasthan,ICICI,HDFC,Android,5G,0,20,Saturday,1
+TXN883,05-01-2024 20:28,P2M,Other,123,SUCCESS,26-35,36-45,Rajasthan,ICICI,IndusInd,Android,5G,0,20,Friday,0
+TXN884,19-02-2024 16:25,P2P,Healthcare,240,SUCCESS,26-35,26-35,Maharashtra,Yes Bank,Yes Bank,Android,4G,0,16,Monday,0
+TXN885,26-06-2024 16:19,P2M,Entertainment,479,SUCCESS,46-55,18-25,Uttar Pradesh,ICICI,SBI,iOS,4G,0,16,Wednesday,0
+TXN886,11-07-2024 02:11,P2M,Food,432,SUCCESS,56+,36-45,Delhi,ICICI,Axis,Android,4G,0,2,Thursday,0
+TXN887,28-06-2024 15:25,P2M,Utilities,609,SUCCESS,46-55,36-45,Andhra Pradesh,Kotak,HDFC,iOS,3G,0,15,Friday,0
+TXN888,11-07-2024 15:43,P2P,Food,131,SUCCESS,26-35,26-35,Uttar Pradesh,Yes Bank,IndusInd,Android,4G,0,15,Thursday,0
+TXN889,29-06-2024 14:12,P2M,Utilities,245,SUCCESS,26-35,26-35,Andhra Pradesh,ICICI,ICICI,Android,4G,0,14,Saturday,1
+TXN890,19-01-2024 03:18,P2P,Transport,144,SUCCESS,26-35,36-45,Maharashtra,Yes Bank,IndusInd,Android,4G,0,3,Friday,0
+TXN891,12-03-2024 22:31,P2P,Grocery,913,SUCCESS,36-45,26-35,Telangana,SBI,SBI,Android,4G,0,22,Tuesday,0
+TXN892,14-03-2024 21:24,P2P,Transport,1270,SUCCESS,26-35,26-35,Maharashtra,HDFC,SBI,Android,4G,0,21,Thursday,0
+TXN893,25-04-2024 17:26,P2P,Food,794,SUCCESS,18-25,18-25,Telangana,Kotak,HDFC,Android,5G,0,17,Thursday,0
+TXN894,10-02-2024 20:21,P2M,Other,1520,SUCCESS,36-45,26-35,Tamil Nadu,SBI,IndusInd,Android,4G,0,20,Saturday,1
+TXN895,14-09-2024 12:52,Recharge,Shopping,3010,SUCCESS,36-45,26-35,Delhi,SBI,Axis,Android,4G,0,12,Saturday,1
+TXN896,25-11-2024 11:56,P2P,Entertainment,872,SUCCESS,26-35,18-25,Uttar Pradesh,Axis,SBI,Android,WiFi,0,11,Monday,0
+TXN897,18-04-2024 12:44,P2M,Food,270,SUCCESS,26-35,26-35,Tamil Nadu,SBI,SBI,Android,4G,0,12,Thursday,0
+TXN898,29-12-2024 17:29,P2M,Shopping,418,SUCCESS,18-25,46-55,Delhi,Axis,SBI,Android,5G,0,17,Sunday,1
+TXN899,30-10-2024 10:42,Bill Payment,Other,559,SUCCESS,18-25,36-45,Tamil Nadu,SBI,ICICI,iOS,4G,0,10,Wednesday,0
+TXN900,23-05-2024 05:35,P2P,Food,445,SUCCESS,18-25,46-55,Uttar Pradesh,HDFC,IndusInd,iOS,WiFi,0,5,Thursday,0
+TXN901,29-01-2024 16:14,P2P,Shopping,1748,SUCCESS,26-35,18-25,Delhi,HDFC,ICICI,Android,4G,0,16,Monday,0
+TXN902,16-07-2024 20:33,Bill Payment,Shopping,7738,SUCCESS,18-25,26-35,Uttar Pradesh,HDFC,SBI,Android,4G,0,20,Tuesday,0
+TXN903,06-11-2024 10:26,P2P,Transport,49,SUCCESS,26-35,46-55,Andhra Pradesh,HDFC,PNB,iOS,4G,0,10,Wednesday,0
+TXN904,10-03-2024 19:29,Recharge,Transport,72,SUCCESS,26-35,26-35,Andhra Pradesh,HDFC,PNB,Android,4G,0,19,Sunday,1
+TXN905,29-10-2024 16:08,P2M,Other,310,SUCCESS,26-35,18-25,Karnataka,HDFC,ICICI,Android,WiFi,0,16,Tuesday,0
+TXN906,02-11-2024 11:31,P2P,Food,103,SUCCESS,36-45,18-25,Rajasthan,SBI,IndusInd,Android,WiFi,0,11,Saturday,1
+TXN907,07-07-2024 21:31,Recharge,Food,238,SUCCESS,18-25,36-45,Karnataka,HDFC,PNB,Android,5G,0,21,Sunday,1
+TXN908,06-07-2024 09:10,P2P,Other,1225,SUCCESS,36-45,26-35,Karnataka,ICICI,Yes Bank,iOS,4G,0,9,Saturday,1
+TXN909,08-01-2024 18:13,P2M,Grocery,480,SUCCESS,18-25,18-25,Tamil Nadu,PNB,IndusInd,Android,4G,0,18,Monday,0
+TXN910,22-09-2024 12:26,P2P,Utilities,160,SUCCESS,18-25,26-35,Gujarat,Axis,SBI,Android,4G,0,12,Sunday,1
+TXN911,12-01-2024 18:48,P2M,Healthcare,640,SUCCESS,26-35,26-35,Karnataka,Kotak,Yes Bank,Android,WiFi,0,18,Friday,0
+TXN912,15-07-2024 06:25,P2P,Grocery,736,SUCCESS,36-45,18-25,Andhra Pradesh,ICICI,IndusInd,iOS,4G,0,6,Monday,0
+TXN913,01-05-2024 19:28,P2M,Fuel,3800,SUCCESS,36-45,26-35,Andhra Pradesh,Yes Bank,SBI,Android,WiFi,0,19,Wednesday,0
+TXN914,27-09-2024 08:46,Recharge,Grocery,396,SUCCESS,26-35,26-35,Uttar Pradesh,SBI,Axis,Android,4G,0,8,Friday,0
+TXN915,01-12-2024 18:01,Bill Payment,Other,1119,SUCCESS,26-35,36-45,Delhi,SBI,ICICI,Web,4G,0,18,Sunday,1
+TXN916,27-03-2024 17:53,P2M,Grocery,345,FAILED,36-45,26-35,Uttar Pradesh,ICICI,Axis,Android,5G,0,17,Wednesday,0
+TXN917,29-10-2024 10:34,P2M,Healthcare,194,SUCCESS,18-25,18-25,Maharashtra,Axis,PNB,iOS,4G,0,10,Tuesday,0
+TXN918,07-09-2024 21:47,P2M,Transport,187,SUCCESS,18-25,18-25,Karnataka,SBI,SBI,iOS,5G,0,21,Saturday,1
+TXN919,24-10-2024 07:32,P2M,Entertainment,363,SUCCESS,18-25,46-55,Gujarat,Axis,HDFC,Android,4G,0,7,Thursday,0
+TXN920,15-02-2024 16:29,P2M,Fuel,628,SUCCESS,36-45,26-35,Delhi,HDFC,ICICI,Android,WiFi,0,16,Thursday,0
+TXN921,29-03-2024 12:03,P2P,Utilities,125,SUCCESS,26-35,26-35,Andhra Pradesh,HDFC,PNB,iOS,4G,0,12,Friday,0
+TXN922,22-06-2024 13:40,P2P,Fuel,2202,SUCCESS,46-55,26-35,Maharashtra,SBI,Yes Bank,iOS,4G,0,13,Saturday,1
+TXN923,28-01-2024 02:14,P2P,Other,589,SUCCESS,36-45,18-25,Tamil Nadu,SBI,HDFC,Android,5G,0,2,Sunday,1
+TXN924,07-09-2024 10:45,P2M,Fuel,607,SUCCESS,36-45,56+,Delhi,HDFC,SBI,Android,5G,0,10,Saturday,1
+TXN925,03-10-2024 18:02,P2M,Shopping,2158,SUCCESS,26-35,26-35,Rajasthan,PNB,ICICI,Android,4G,0,18,Thursday,0
+TXN926,22-07-2024 16:51,P2P,Grocery,1128,FAILED,18-25,18-25,Karnataka,PNB,HDFC,Android,4G,0,16,Monday,0
+TXN927,17-01-2024 11:38,Bill Payment,Entertainment,250,SUCCESS,26-35,26-35,Gujarat,ICICI,PNB,Android,4G,0,11,Wednesday,0
+TXN928,15-04-2024 09:00,P2M,Utilities,4123,SUCCESS,36-45,18-25,Telangana,IndusInd,Yes Bank,Android,WiFi,0,9,Monday,0
+TXN929,15-01-2024 19:44,P2P,Grocery,2121,SUCCESS,36-45,26-35,Uttar Pradesh,Axis,ICICI,Android,4G,0,19,Monday,0
+TXN930,14-02-2024 22:37,P2P,Food,173,SUCCESS,36-45,18-25,Delhi,Kotak,ICICI,Android,WiFi,0,22,Wednesday,0
+TXN931,11-11-2024 19:00,P2P,Education,2223,SUCCESS,56+,46-55,Gujarat,HDFC,Kotak,iOS,4G,0,19,Monday,0
+TXN932,22-01-2024 11:10,P2P,Grocery,1354,SUCCESS,26-35,18-25,Uttar Pradesh,ICICI,SBI,Android,5G,0,11,Monday,0
+TXN933,10-07-2024 20:23,P2P,Food,766,SUCCESS,36-45,26-35,Rajasthan,ICICI,IndusInd,Android,5G,0,20,Wednesday,0
+TXN934,27-03-2024 11:08,P2P,Grocery,431,SUCCESS,18-25,36-45,Delhi,PNB,SBI,iOS,WiFi,0,11,Wednesday,0
+TXN935,10-07-2024 17:00,P2M,Grocery,1609,SUCCESS,18-25,46-55,Maharashtra,IndusInd,Axis,Android,5G,0,17,Wednesday,0
+TXN936,14-01-2024 08:54,Recharge,Utilities,735,SUCCESS,56+,36-45,Tamil Nadu,Yes Bank,SBI,Android,5G,0,8,Sunday,1
+TXN937,27-02-2024 07:59,P2P,Grocery,2377,SUCCESS,56+,18-25,Tamil Nadu,SBI,SBI,Android,4G,0,7,Tuesday,0
+TXN938,21-12-2024 21:36,P2M,Fuel,2186,SUCCESS,46-55,18-25,Uttar Pradesh,IndusInd,IndusInd,Android,4G,0,21,Saturday,1
+TXN939,10-11-2024 22:07,P2M,Utilities,3425,SUCCESS,36-45,36-45,Andhra Pradesh,Axis,SBI,iOS,5G,0,22,Sunday,1
+TXN940,27-10-2024 11:48,P2M,Utilities,5257,SUCCESS,26-35,36-45,Delhi,Yes Bank,HDFC,iOS,5G,0,11,Sunday,1
+TXN941,05-03-2024 11:56,P2P,Food,144,SUCCESS,18-25,26-35,Karnataka,Axis,SBI,Android,5G,0,11,Tuesday,0
+TXN942,05-03-2024 20:26,P2P,Education,4844,SUCCESS,18-25,36-45,Delhi,SBI,HDFC,Android,5G,0,20,Tuesday,0
+TXN943,21-12-2024 09:15,P2P,Utilities,2054,SUCCESS,26-35,36-45,Uttar Pradesh,SBI,HDFC,Android,4G,0,9,Saturday,1
+TXN944,25-11-2024 07:04,P2M,Healthcare,685,SUCCESS,36-45,26-35,Uttar Pradesh,HDFC,IndusInd,iOS,4G,0,7,Monday,0
+TXN945,06-03-2024 12:54,P2P,Grocery,286,SUCCESS,26-35,46-55,Karnataka,HDFC,IndusInd,Android,WiFi,0,12,Wednesday,0
+TXN946,27-08-2024 20:43,P2M,Food,620,SUCCESS,26-35,46-55,Gujarat,SBI,Kotak,Android,3G,0,20,Tuesday,0
+TXN947,14-06-2024 20:32,P2P,Transport,183,SUCCESS,18-25,36-45,Tamil Nadu,IndusInd,ICICI,Android,4G,0,20,Friday,0
+TXN948,10-06-2024 12:20,P2P,Shopping,11038,SUCCESS,18-25,18-25,Tamil Nadu,Kotak,ICICI,iOS,4G,0,12,Monday,0
+TXN949,16-03-2024 18:34,P2P,Food,821,SUCCESS,18-25,36-45,Karnataka,HDFC,Kotak,Android,4G,0,18,Saturday,1
+TXN950,17-08-2024 15:31,P2P,Utilities,987,SUCCESS,18-25,26-35,Uttar Pradesh,PNB,Yes Bank,iOS,4G,0,15,Saturday,1
+TXN951,05-03-2024 12:23,P2P,Utilities,2289,SUCCESS,36-45,26-35,Karnataka,PNB,HDFC,Android,4G,0,12,Tuesday,0
+TXN952,17-04-2024 19:27,P2M,Shopping,355,SUCCESS,18-25,46-55,Delhi,ICICI,HDFC,Android,4G,0,19,Wednesday,0
+TXN953,11-07-2024 17:50,P2P,Other,344,SUCCESS,36-45,26-35,Gujarat,SBI,Yes Bank,Web,4G,0,17,Thursday,0
+TXN954,21-09-2024 20:34,P2P,Utilities,3205,SUCCESS,36-45,18-25,Maharashtra,PNB,HDFC,iOS,4G,0,20,Saturday,1
+TXN955,02-07-2024 10:39,P2P,Shopping,524,SUCCESS,36-45,18-25,West Bengal,Axis,SBI,Android,4G,0,10,Tuesday,0
+TXN956,06-03-2024 17:32,P2P,Food,488,SUCCESS,36-45,26-35,Tamil Nadu,PNB,PNB,Android,5G,0,17,Wednesday,0
+TXN957,02-04-2024 19:41,P2M,Grocery,511,SUCCESS,18-25,26-35,Uttar Pradesh,IndusInd,HDFC,Android,4G,0,19,Tuesday,0
+TXN958,21-10-2024 12:42,P2P,Transport,380,SUCCESS,36-45,18-25,Andhra Pradesh,Kotak,SBI,iOS,5G,0,12,Monday,0
+TXN959,04-01-2024 20:49,P2P,Healthcare,864,SUCCESS,36-45,36-45,West Bengal,HDFC,HDFC,Web,WiFi,0,20,Thursday,0
+TXN960,26-11-2024 15:24,P2M,Entertainment,1253,SUCCESS,26-35,26-35,Gujarat,HDFC,HDFC,Android,4G,0,15,Tuesday,0
+TXN961,28-12-2024 13:26,Recharge,Shopping,518,SUCCESS,56+,26-35,Uttar Pradesh,IndusInd,Yes Bank,Android,5G,0,13,Saturday,1
+TXN962,27-07-2024 14:16,Bill Payment,Grocery,486,SUCCESS,18-25,18-25,Uttar Pradesh,Yes Bank,PNB,Android,5G,0,14,Saturday,1
+TXN963,20-05-2024 17:52,P2M,Transport,664,SUCCESS,18-25,56+,Uttar Pradesh,HDFC,HDFC,iOS,4G,0,17,Monday,0
+TXN964,13-01-2024 17:45,Bill Payment,Grocery,1006,SUCCESS,18-25,36-45,Tamil Nadu,HDFC,Yes Bank,Android,4G,0,17,Saturday,1
+TXN965,28-01-2024 13:16,P2P,Transport,637,SUCCESS,18-25,18-25,Uttar Pradesh,HDFC,SBI,Android,5G,0,13,Sunday,1
+TXN966,29-06-2024 16:06,P2P,Food,573,SUCCESS,18-25,26-35,Karnataka,SBI,PNB,Android,4G,0,16,Saturday,1
+TXN967,17-12-2024 16:34,P2M,Shopping,5736,SUCCESS,18-25,26-35,Maharashtra,SBI,SBI,Android,4G,0,16,Tuesday,0
+TXN968,01-05-2024 17:04,P2P,Fuel,527,SUCCESS,26-35,36-45,Andhra Pradesh,SBI,SBI,iOS,WiFi,0,17,Wednesday,0
+TXN969,24-01-2024 17:05,Bill Payment,Other,375,SUCCESS,26-35,26-35,Maharashtra,Kotak,PNB,Android,4G,0,17,Wednesday,0
+TXN970,21-10-2024 20:33,P2M,Entertainment,312,SUCCESS,26-35,18-25,Uttar Pradesh,Yes Bank,Yes Bank,Android,4G,0,20,Monday,0
+TXN971,04-11-2024 18:53,P2M,Fuel,515,SUCCESS,26-35,36-45,Delhi,ICICI,Axis,Android,4G,0,18,Monday,0
+TXN972,28-12-2024 13:55,Bill Payment,Utilities,444,SUCCESS,46-55,26-35,West Bengal,SBI,PNB,iOS,4G,0,13,Saturday,1
+TXN973,28-11-2024 12:21,P2P,Grocery,926,SUCCESS,46-55,18-25,Delhi,HDFC,Yes Bank,Android,4G,0,12,Thursday,0
+TXN974,19-07-2024 19:53,Bill Payment,Fuel,1676,FAILED,26-35,26-35,Karnataka,HDFC,ICICI,Android,4G,0,19,Friday,0
+TXN975,29-10-2024 22:52,P2P,Utilities,316,SUCCESS,26-35,36-45,Andhra Pradesh,Kotak,Kotak,Android,4G,0,22,Tuesday,0
+TXN976,05-01-2024 18:41,P2P,Fuel,709,SUCCESS,26-35,18-25,West Bengal,SBI,IndusInd,Web,4G,0,18,Friday,0
+TXN977,24-02-2024 11:09,P2P,Shopping,7121,SUCCESS,18-25,36-45,Uttar Pradesh,HDFC,SBI,Android,4G,0,11,Saturday,1
+TXN978,20-08-2024 19:08,P2M,Food,444,FAILED,36-45,36-45,Gujarat,SBI,SBI,iOS,WiFi,0,19,Tuesday,0
+TXN979,04-12-2024 21:03,P2P,Food,352,SUCCESS,36-45,36-45,Tamil Nadu,Yes Bank,SBI,Android,4G,0,21,Wednesday,0
+TXN980,03-11-2024 21:58,P2M,Transport,1533,SUCCESS,26-35,18-25,Telangana,Axis,PNB,Android,4G,0,21,Sunday,1
+TXN981,28-03-2024 19:57,P2P,Healthcare,271,SUCCESS,26-35,46-55,Uttar Pradesh,SBI,SBI,Android,5G,0,19,Thursday,0
+TXN982,24-08-2024 11:55,P2P,Education,4804,SUCCESS,26-35,36-45,Karnataka,Axis,Axis,iOS,5G,0,11,Saturday,1
+TXN983,02-07-2024 07:05,Bill Payment,Grocery,1508,SUCCESS,46-55,26-35,Uttar Pradesh,HDFC,HDFC,Android,4G,0,7,Tuesday,0
+TXN984,08-06-2024 16:08,P2P,Grocery,384,SUCCESS,56+,26-35,Maharashtra,IndusInd,SBI,Android,5G,0,16,Saturday,1
+TXN985,03-12-2024 11:08,P2P,Shopping,1879,SUCCESS,18-25,26-35,Karnataka,IndusInd,HDFC,Android,4G,0,11,Tuesday,0
+TXN986,23-09-2024 18:28,P2M,Fuel,1313,SUCCESS,36-45,18-25,Maharashtra,ICICI,SBI,iOS,5G,0,18,Monday,0
+TXN987,04-03-2024 16:30,P2M,Fuel,583,SUCCESS,26-35,36-45,West Bengal,PNB,Yes Bank,Android,WiFi,0,16,Monday,0
+TXN988,06-10-2024 02:31,P2P,Grocery,424,SUCCESS,18-25,46-55,Maharashtra,Axis,Axis,Android,4G,0,2,Sunday,1
+TXN989,09-03-2024 02:48,Bill Payment,Entertainment,142,SUCCESS,18-25,26-35,Delhi,Yes Bank,Yes Bank,Android,4G,0,2,Saturday,1
+TXN990,18-09-2024 16:34,Recharge,Fuel,1053,SUCCESS,18-25,26-35,Telangana,Kotak,Yes Bank,iOS,4G,0,16,Wednesday,0
+TXN991,17-07-2024 06:44,Bill Payment,Entertainment,479,SUCCESS,26-35,18-25,Delhi,SBI,Yes Bank,Android,4G,0,6,Wednesday,0
+TXN992,10-11-2024 00:07,P2P,Grocery,717,SUCCESS,18-25,26-35,Uttar Pradesh,ICICI,SBI,Android,5G,0,0,Sunday,1
+TXN993,10-01-2024 18:24,P2M,Food,429,SUCCESS,36-45,36-45,Rajasthan,SBI,HDFC,Android,4G,0,18,Wednesday,0
+TXN994,13-09-2024 16:31,P2P,Grocery,1240,SUCCESS,36-45,36-45,Rajasthan,HDFC,Axis,Android,4G,0,16,Friday,0
+TXN995,12-08-2024 02:42,P2M,Shopping,3473,SUCCESS,36-45,18-25,Karnataka,SBI,SBI,iOS,4G,0,2,Monday,0
+TXN996,18-04-2024 21:01,Recharge,Entertainment,178,SUCCESS,18-25,18-25,Karnataka,Kotak,SBI,Android,4G,0,21,Thursday,0
+TXN997,01-11-2024 12:05,P2P,Transport,423,SUCCESS,36-45,18-25,Uttar Pradesh,ICICI,IndusInd,iOS,5G,0,12,Friday,0
+TXN998,10-02-2024 11:31,P2M,Other,2251,SUCCESS,18-25,26-35,Delhi,HDFC,Kotak,iOS,4G,0,11,Saturday,1
+TXN999,17-10-2024 17:18,P2P,Shopping,2594,SUCCESS,46-55,26-35,Telangana,IndusInd,SBI,iOS,4G,0,17,Thursday,0
